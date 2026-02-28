@@ -1,0 +1,6394 @@
+go.
+hi.
+run!
+run!
+run.
+who?
+wow!
+duck!
+fire!
+help!
+hide.
+jump!
+jump.
+stay.
+wait!
+wait!
+wait.
+begin.
+hello!
+hello.
+i see.
+i try.
+i won!
+oh no!
+relax.
+shoot!
+smile.
+sorry?
+sorry?
+sorry?
+attack!
+attack!
+freeze!
+get up.
+got it!
+got it?
+he ran.
+hug me.
+i know.
+i lost.
+i quit.
+i quit.
+i work.
+listen.
+no way!
+no way!
+thanks.
+we try.
+we won.
+why me?
+awesome!
+be calm.
+be calm.
+be fair.
+beat it.
+call us.
+come in.
+come on!
+get out.
+go away!
+go away.
+goodbye!
+goodbye.
+he came.
+he came.
+he runs.
+help me!
+help me.
+hit tom.
+hold it!
+hold it!
+hold it!
+hold it!
+i agree.
+i'm sad.
+join us.
+kiss me.
+kiss me.
+me, too.
+open up.
+perfect!
+show me.
+shut up!
+skip it.
+stop it.
+tell me.
+text me.
+tom won.
+wake up!
+wash up.
+we know.
+we lost.
+welcome.
+welcome.
+who won?
+who won?
+why not?
+why not?
+you run.
+you run.
+you run.
+you run.
+cheer up!
+cool off!
+drink it.
+get down!
+get lost.
+go ahead.
+go there.
+good job!
+grab tom.
+grab him.
+grab him.
+he spoke.
+how cute!
+how cute!
+how deep?
+how nice!
+how nice!
+how nice!
+hurry up.
+i forgot.
+i phoned.
+i resign.
+i resign.
+i'll pay.
+i'll pay.
+i'm late.
+i'm lost.
+i'm ugly.
+it hurts.
+it works.
+it works.
+it works.
+let's go!
+look out!
+she died.
+sit down!
+sit here.
+speak up!
+stand up!
+tell tom.
+tell tom.
+they won.
+they won.
+tom died.
+tom left.
+tom left.
+tom lied.
+tom lied.
+tom lost.
+tom paid.
+tom quit.
+tom wept.
+too late.
+trust me.
+try hard.
+try some.
+try this.
+we agree.
+what for?
+what fun!
+what fun!
+who am i?
+who died?
+who quit?
+after you.
+after you.
+answer me.
+apologize.
+birds fly.
+calm down.
+come here.
+come home.
+dogs bark.
+don't lie.
+don't lie.
+fantastic!
+find them.
+follow me.
+follow us.
+follow us.
+forget it.
+forget me.
+forget me.
+get ready.
+good luck.
+good luck.
+grab this.
+hands off.
+he smiled.
+hold this.
+how awful!
+how awful!
+i fainted.
+i give up.
+i laughed.
+i promise.
+i said so.
+i'm a man.
+i'm sorry.
+i'm sorry.
+i'm sorry.
+i'm sorry.
+i've lost.
+it rained.
+it rained.
+it snowed.
+it stinks.
+it's 7:45.
+it's good.
+it's good.
+keep away.
+kill them.
+leave now.
+look back!
+look back!
+nice shot!
+of course!
+of course.
+read this.
+say hello.
+see above.
+see above.
+see below.
+seriously?
+she cried.
+she tried.
+sit there.
+sit tight.
+start now.
+stay back.
+stay calm.
+stay here.
+step back.
+stop here.
+take care.
+take this.
+take this.
+take this.
+thank you.
+thank you.
+then what?
+they left.
+they left.
+they left.
+they lied.
+they lost.
+they lost.
+tom cried.
+tom dozed.
+tom drove.
+tom knits.
+tom knows.
+tom moved.
+tom moved.
+try again.
+turn left.
+turn left.
+wait here.
+watch out!
+we did it.
+we talked.
+we waited.
+well done!
+who cares?
+who knows?
+wonderful!
+you idiot!
+you tried.
+all aboard!
+am i weird?
+ask anyone.
+be careful.
+be patient.
+be patient.
+birds sing.
+breathe in.
+bring wine.
+bring wine.
+carry this.
+carry this.
+check this.
+choose one.
+come again.
+come alone.
+come along.
+come quick!
+definitely!
+don't talk!
+eat slowly.
+face facts!
+fire burns.
+follow him.
+forget tom.
+forget him.
+forgive me.
+forgive us.
+forgive us.
+god exists.
+he hung up.
+he is nice.
+he is tall.
+he laughed.
+hey, relax.
+hold still.
+hold still.
+how lovely!
+how tragic!
+how tragic!
+how's work?
+how's work?
+hurry back.
+hurry home.
+hurry home.
+i am human.
+i chuckled.
+i disagree.
+i envy him.
+i envy you.
+i feel bad.
+i feel bad.
+i feel bad.
+i felt bad.
+i got lost.
+i help him.
+i need you.
+i remember.
+i want tom.
+i'd accept.
+i'll be ok.
+i'll do it.
+i'll go in.
+i'm hungry.
+ignore tom.
+ignore him.
+is tom ill?
+is he busy?
+is he busy?
+is it blue?
+is it true?
+is that ok?
+is this ok?
+it is warm.
+it's green.
+keep going.
+keep quiet.
+keep still.
+let me die.
+let me pay.
+let me pay.
+look at us.
+look there.
+love hurts.
+mama cried.
+mama cried.
+never mind!
+no comment.
+no kidding?
+no problem!
+once again.
+please sit.
+please sit.
+quiet down.
+ridiculous!
+say cheese.
+sing along.
+start here.
+start over.
+stay there.
+step aside.
+stop lying.
+study hard.
+that hurts.
+that hurts.
+time flies.
+time flies.
+tom agreed.
+tom cheats.
+tom danced.
+tom drives.
+tom failed.
+tom forgot.
+tom fought.
+tom gasped.
+tom helped.
+tom jumped.
+tom looked.
+tom moaned.
+tom nodded.
+tom sighed.
+tom smiled.
+tom snores.
+tom waited.
+tom yawned.
+turn right.
+turn right.
+wood burns.
+you called?
+you called?
+you decide.
+anyone home?
+anyone hurt?
+be cheerful.
+be yourself.
+be yourself.
+boys do cry.
+check again.
+come aboard.
+come closer.
+come inside.
+cook for me.
+finish this.
+get serious.
+go straight.
+go straight.
+he chuckled.
+he resigned.
+hello again.
+hello again.
+how curious!
+how strange!
+i am a monk.
+i don't lie.
+i don't lie.
+i don't lie.
+i exercised.
+i hate sand.
+i know them.
+i like beer.
+i like rock.
+i must obey.
+i overslept.
+i want this.
+i was moved.
+i'll refuse.
+i'm at home.
+i'm in jail.
+i'm in jail.
+i'm in jail.
+i'm kidding.
+i'm nervous.
+i'm nervous.
+i'm not old.
+i'm shocked.
+i'm too fat.
+ignore that.
+it is foggy.
+it's a pity.
+it's closed.
+it's unfair.
+keep moving.
+keep trying.
+look around.
+money talks.
+my dog died.
+nice timing.
+nice timing.
+nobody came.
+nobody died.
+nobody died.
+nobody lied.
+nobody lied.
+plants grow.
+please sing.
+please stay.
+please stop.
+release him.
+release him.
+remember it.
+say goodbye.
+say nothing.
+stop crying.
+stop moving!
+stop! thief!
+stop! thief!
+tea, please.
+that was me.
+they danced.
+they danced.
+they hugged.
+they kissed.
+they obeyed.
+they smiled.
+they smiled.
+this is fun.
+this is fun.
+tom blushed.
+tom cheated.
+tom cheated.
+tom clapped.
+tom clapped.
+tom coughed.
+tom drowned.
+tom drowned.
+tom escaped.
+tom escaped.
+tom exhaled.
+tom exhaled.
+tom fainted.
+tom frowned.
+tom giggled.
+tom giggled.
+tom giggled.
+tom grinned.
+tom grinned.
+tom groaned.
+tom inhaled.
+tom is sick.
+tom kneeled.
+tom laughed.
+tom's lying.
+tom's weird.
+turn around.
+walk slowly.
+was i wrong?
+we are sick.
+we ate eggs.
+we promised.
+we remember.
+we survived!
+we'll dance.
+we're ready.
+what's that?
+who are you?
+who drew it?
+work slowly.
+you're late.
+you're mine.
+you're mine.
+abandon ship!
+abandon ship.
+anybody here?
+anybody home?
+anybody home?
+anybody hurt?
+anything new?
+are you bald?
+are you deaf?
+be confident.
+be confident.
+be realistic!
+beef, please.
+blood is red.
+can i go now?
+come forward.
+come quickly!
+come quickly!
+come with me.
+come with me.
+don't eat it.
+drive faster.
+examine them.
+examine this.
+fish, please.
+ghosts exist.
+go away, tom.
+good morning.
+grab a spoon.
+happy easter!
+happy easter!
+he was brave.
+hello, girls.
+how annoying!
+how annoying!
+how arrogant!
+how dare you!
+how dare you!
+how horrible!
+how romantic!
+how romantic!
+i am at home.
+i apologized.
+i don't care.
+i don't know.
+i hate beans.
+i hate liars.
+i hugged her.
+i love beans.
+i love music.
+i need money.
+i understand.
+i understand.
+i understood.
+i'll do this.
+i'll take it.
+i'm a lawyer.
+i'm addicted.
+i'm bleeding.
+is tom happy?
+is that okay?
+is this fake?
+is this fake?
+is this love?
+is this mine?
+is this wine?
+it'll be hot.
+it's obvious.
+it's snowing.
+it's suicide.
+it's too old.
+it's too old.
+just keep it.
+keep dancing.
+keep dancing.
+keep digging.
+keep digging.
+keep driving.
+keep focused.
+keep looking.
+keep reading.
+keep singing.
+keep singing.
+keep smiling.
+keep smiling.
+keep smiling.
+keep talking.
+keep talking.
+ladies first.
+lead the way.
+mary giggled.
+meat, please.
+meat, please.
+move quietly.
+nobody asked.
+nobody knows.
+please hurry.
+please leave.
+please relax.
+please smile.
+she was busy.
+show me more.
+show me more.
+someone came.
+stay focused.
+stop filming.
+stop reading.
+stop smoking.
+stop staring.
+stop talking.
+stop whining.
+stop yelling!
+take it easy!
+take it easy!
+take it easy!
+that's right.
+that's right.
+that's right.
+they escaped.
+they laughed.
+they love me.
+they refused.
+they relaxed.
+they said no.
+they said no.
+this is free.
+this is free.
+tom answered.
+tom approved.
+tom chuckled.
+tom chuckled.
+tom enlisted.
+tom finished.
+tom flinched.
+tom grumbled.
+tom grumbled.
+tom hates me.
+tom hates me.
+tom insisted.
+tom is eager.
+tom is quick.
+tom is quick.
+tom is silly.
+tom is sober.
+tom is sober.
+tom listened.
+tom shrugged.
+tom whistled.
+tom's famous.
+tom's polite.
+unbelievable!
+we apologize.
+we don't lie.
+we don't lie.
+we exercised.
+we need hats.
+we overslept.
+we succeeded.
+we succeeded.
+we're inside.
+we're inside.
+welcome back.
+welcome home.
+what is that?
+years passed.
+you are late.
+you're crazy.
+you're lying!
+you're right.
+you're right.
+any questions?
+any questions?
+call somebody.
+can i ask why?
+can you tango?
+cats are cute.
+come tomorrow.
+don't do this.
+eat something.
+everyone dies.
+everyone wins.
+flowers bloom.
+get some rest.
+get some rest.
+grab the rope.
+he's autistic.
+how beautiful!
+how wonderful!
+i am homesick.
+i can't sleep.
+i did my best.
+i did my best.
+i feel guilty.
+i feel lonely.
+i fell asleep.
+i forgive you.
+i got engaged.
+i hate myself.
+i have a cold.
+i have a cold.
+i like celery.
+i like horses.
+i like winter.
+i miss my cat.
+i played golf.
+i smell blood.
+i use firefox.
+i volunteered.
+i want to die.
+i want to die.
+i'll be there.
+i'll buy that.
+i'll buy that.
+i'll buy that.
+i'll kill him.
+i'm at school.
+i'm beautiful.
+i'm dangerous.
+i'm depressed.
+i'm not tired.
+i'm religious.
+is my time up?
+is that blood?
+isn't it true?
+isn't it true?
+it looks good.
+it looks good.
+keep fighting.
+memorize this.
+my head hurts.
+my name's tom.
+please listen.
+quiet, please.
+quit gambling.
+say something.
+she overslept.
+she was naive.
+she was young.
+show yourself.
+show yourself.
+speak clearly.
+start singing.
+stay positive.
+stop babbling.
+stop fighting!
+stop laughing.
+stop shooting.
+stop worrying.
+stop worrying.
+suit yourself.
+suit yourself.
+thanks anyway.
+that's a pity.
+that's my cat.
+that's my dog.
+that's not it.
+there you are.
+there you are.
+they screamed.
+they're green.
+they're green.
+this is yours.
+tom confessed.
+tom graduated.
+tom has a cat.
+tom has grown.
+tom hesitated.
+tom hesitated.
+tom is honest.
+tom is losing.
+tom is stupid.
+tom left mary.
+tom overslept.
+tom sat alone.
+tom sat alone.
+tom shot mary.
+tom was upset.
+tom was upset.
+tom went west.
+tom will walk.
+tom's smiling.
+tom's smiling.
+wait a moment.
+watch closely.
+we can buy it.
+we understand.
+we want peace.
+we're married.
+we're too old.
+what nonsense!
+what nonsense!
+what nonsense!
+who said that?
+you don't say.
+you don't say.
+you don't say.
+you work hard.
+you're boring.
+you're boring.
+a bird can fly.
+apples are red.
+are you crying?
+are you crying?
+are you crying?
+are you crying?
+autumn is here.
+autumn is here.
+both are alive.
+can i help you?
+can i touch it?
+can i touch it?
+can i touch it?
+cats are great.
+dancing is fun.
+dancing is fun.
+do you hear me?
+do you like it?
+do you like it?
+don't go there.
+don't go there.
+eat everything.
+everybody knew.
+everybody left.
+everybody lies.
+everyone stood.
+everyone stood.
+give me a kiss.
+happy new year!
+he was hard up.
+i can help you.
+i can help you.
+i don't buy it.
+i feel relaxed.
+i hate working.
+i have no time.
+i like reading.
+i like to work.
+i like working.
+i love karaoke.
+i love lasagna.
+i love my home.
+i might not go.
+i need my keys.
+i saw her swim.
+i study korean.
+i want revenge.
+i want revenge.
+i will take it.
+i'll find them.
+i'm a salesman.
+i'm behind you.
+i'm very sorry.
+i'm very sorry.
+is french easy?
+is it too late?
+is she at home?
+is that a bird?
+is that a bird?
+it's not funny.
+it's sickening.
+it's so simple.
+it's very good.
+keep tom there.
+keep listening.
+keep searching.
+keep searching.
+louder, please.
+my name is tom.
+no one laughed.
+no one laughed.
+only god knows.
+please line up.
+please proceed.
+read this book.
+read this book.
+science is fun.
+she hugged him.
+sing us a song.
+smoking stinks.
+someone called.
+sorry i'm late.
+stop grumbling.
+tell everybody.
+tell everybody.
+that's suicide.
+the cat meowed.
+the ice melted.
+they quarreled.
+this annoys me.
+this annoys me.
+this is my job.
+those are mine.
+ticket, please.
+tom apologized.
+tom complained.
+tom has talent.
+tom hates cats.
+tom is abusive.
+tom is awesome.
+tom is smiling.
+tom is smiling.
+tom is so rude.
+tom is too old.
+tom is working.
+tom is working.
+tom lied to us.
+tom looks sick.
+tom loves cats.
+tom loves cats.
+tom ran for it.
+tom took a cab.
+tom went there.
+watch yourself.
+we need change.
+we surrendered.
+we visited tom.
+we volunteered.
+what a hot day!
+what a hot day!
+what about you?
+you look smart.
+you scared tom.
+you're too old.
+am i alone here?
+are ghosts real?
+balls are round.
+behave yourself.
+bend your knees.
+boil some water.
+can i leave now?
+can tom do that?
+can you help me?
+chicken, please.
+clean your room.
+congratulations!
+congratulations!
+did tom do that?
+did tom look ok?
+did tom see you?
+did you love me?
+did you love me?
+do you like rap?
+do you like rap?
+do you remember?
+do you remember?
+do you want him?
+do you want him?
+don't lie to me.
+don't lie to me.
+don't lie to us.
+don't lie to us.
+drive carefully.
+drive carefully.
+enjoy your meal!
+enjoy your meal.
+everybody knows.
+everyone dreams.
+everyone looked.
+everyone prayed.
+everyone prayed.
+everyone smiled.
+everyone waited.
+green suits you.
+has tom arrived?
+has tom arrived?
+have a good day.
+he came at dawn.
+he is unmarried.
+he is unmarried.
+he is unmarried.
+he loves trains.
+he will also go.
+how do you feel?
+how do you feel?
+how do you feel?
+how do you feel?
+how fascinating!
+how fascinating!
+how interesting!
+i ache all over.
+i caught a cold.
+i caught a cold.
+i didn't scream.
+i enjoy reading.
+i felt excluded.
+i hate funerals.
+i hate my voice.
+i have a sister.
+i have a sister.
+i have a sister.
+i have a sister.
+i have two sons.
+i know tom well.
+i learned a lot.
+i like this job.
+i love this job.
+i love to dance.
+i misunderstood.
+i need caffeine.
+i returned home.
+i smelled bacon.
+i took a shower.
+i want to drive.
+i was convicted.
+i work at a zoo.
+i'll do my best.
+i'm embarrassed.
+i'm heartbroken.
+i'm just sleepy.
+i'm not sulking.
+i'm on the list.
+is tom with you?
+is anybody home?
+is this a radio?
+is this ethical?
+it doesn't hurt.
+it's lunch time.
+it's lunch time.
+it's too narrow.
+it's too narrow.
+it's very humid.
+it's very humid.
+keep the change.
+let's go by bus.
+let's not panic.
+life's not easy.
+life's not easy.
+might i come in?
+my bag is empty.
+my blood boiled.
+my cat is black.
+nobody was home.
+please continue.
+please take one.
+raise your hand.
+raise your hand.
+she disappeared.
+she disappeared.
+she took it off.
+she was my boss.
+she's a trainee.
+she's a trainee.
+she's depressed.
+sit up straight.
+sit up straight.
+someone coughed.
+sorry, i'm late.
+stop whispering.
+that was stupid.
+that's a pencil.
+that's a secret.
+that's horrible.
+that's nonsense.
+that's nonsense.
+that's old news.
+the bag is full.
+the cat is lazy.
+the dog is ours.
+there was blood.
+they believe me.
+they found this.
+they want peace.
+they were lucky.
+they were naive.
+they'll like it.
+they're orphans.
+this is my baby.
+this is suicide!
+tom didn't vote.
+tom disappeared.
+tom drinks beer.
+tom got retired.
+tom is a muslim.
+tom is a muslim.
+tom is a runner.
+tom is insolent.
+tom is starving.
+tom is starving.
+tom needs water.
+tom volunteered.
+tom walked home.
+tom wanted this.
+tom wanted this.
+tom was too old.
+tom wasn't rich.
+tom went to bed.
+tom went to bed.
+tom worked hard.
+tom's important.
+watch carefully.
+we need experts.
+we speak french.
+we were worried.
+we're canadians.
+what a nice tie!
+what time is it?
+what's his name?
+where did he go?
+why do we dream?
+write something.
+you're a genius.
+accept your fate.
+are dragons real?
+are dragons real?
+are you canadian?
+are you busy now?
+are you in there?
+are you involved?
+are you involved?
+are you sleeping?
+are you studying?
+attention please!
+attention please!
+call this number.
+can rabbits swim?
+can we talk here?
+choose carefully.
+come immediately.
+did you know him?
+do you like fish?
+do you like fish?
+do you like fish?
+do you like fish?
+do you like tofu?
+do you like tofu?
+do you want this?
+do you want this?
+drink some water.
+everybody smiled.
+everybody smiled.
+everyone changes.
+everyone laughed.
+fight like a man!
+get into the car.
+give me my sword.
+give me the file.
+go to the barber.
+he is her friend.
+he loves animals.
+he loves singing.
+he sang and sang.
+he speaks french.
+her hair is long.
+her hair is long.
+here is the bill.
+his face was red.
+hold on a second.
+how embarrassing!
+how is this fair?
+i bought a horse.
+i bought flowers.
+i can't hate you.
+i can't hate you.
+i don't doubt it.
+i don't envy you.
+i don't have any.
+i felt very safe.
+i hate chemistry.
+i hate hypocrisy.
+i know who he is.
+i like languages.
+i like languages.
+i lost my camera.
+i lost my wallet.
+i may be too old.
+i may be too old.
+i missed the bus.
+i need first aid.
+i need first aid.
+i need first aid.
+i play the piano.
+i really mean it.
+i regret leaving.
+i said i'm sorry.
+i said i'm sorry.
+i was 13 in 2003.
+i was a rich man.
+i work on sunday.
+i'm almost ready.
+i'm dead serious.
+i'm disorganized.
+i'm not suicidal.
+i'm really sorry.
+i'm sick of this.
+i'm your teacher.
+is that a spider?
+is the bank open?
+is the bank open?
+it could be true.
+it was a mistake.
+it's a full moon.
+it's monkey meat.
+it's nearly dark.
+it's pretty cold.
+it's really loud.
+listen carefully.
+look at the moon.
+mary has dimples.
+mary has dimples.
+nice to meet you.
+no one helped me.
+nobody said that.
+nobody said that.
+nobody's perfect.
+nobody's perfect.
+nothing happened.
+shall i help you?
+shall i help you?
+she is beautiful.
+she is easygoing.
+she lives nearby.
+somebody laughed.
+someone has died.
+someone screamed.
+stop apologizing.
+stop complaining.
+that is a pencil.
+that made me cry.
+that wasn't true.
+that's very kind.
+the answer's yes.
+the battery died.
+the book's white.
+the kids love it.
+the moon has set.
+the sky is clear.
+there aren't any.
+they disappeared.
+they disappeared.
+they thanked god.
+they're amateurs.
+they're escaping.
+think about this.
+this is a flower.
+this is my horse.
+this is not true.
+this seat's free.
+tom already left.
+tom had no money.
+tom has kids now.
+tom is a manager.
+tom is a nominee.
+tom is an orphan.
+tom is fantastic.
+tom is fast, too.
+tom is real busy.
+tom is worked up.
+tom isn't a liar.
+tom isn't skinny.
+tom sang to mary.
+tom wants a beer.
+tom wants a beer.
+watch me closely.
+water the plants.
+we can't give up.
+we can't give up.
+we'd been warned.
+what did you say?
+what do you like?
+what do you like?
+what do you like?
+what happens now?
+what's your plan?
+what's your wish?
+what's your wish?
+where is the cat?
+why are you here?
+why did you come?
+you made tom cry.
+you'll regret it.
+you're shivering.
+you're very nice.
+you're very nice.
+your plan failed.
+admission is free.
+aren't you afraid?
+aren't you afraid?
+aren't you afraid?
+birds build nests.
+can i borrow this?
+can you handle it?
+champagne, please.
+champagne, please.
+champagne, please.
+come and see this.
+do you have proof?
+do you like women?
+do you like women?
+do you work alone?
+does tom like you?
+don't be so silly.
+don't even try it.
+don't wake him up.
+everybody laughed.
+everyone got sick.
+everyone screamed.
+everyone survived.
+everyone survived.
+everyone survived.
+exercise outdoors.
+gas prices are up.
+give me five days.
+god bless you all.
+has tom called in?
+he died yesterday.
+he gave me a wink.
+he had a headache.
+he runs very fast.
+he runs very fast.
+he sat on the bed.
+he speaks english.
+he talks too fast.
+he will come soon.
+he will come soon.
+her nails are red.
+how should i know?
+how should i know?
+how should i know?
+i admit i'm wrong.
+i am really sorry.
+i believe in love.
+i can go tomorrow.
+i can't walk fast.
+i can't walk fast.
+i can't walk fast.
+i don't have time.
+i don't like this.
+i doubted my eyes.
+i feel really sad.
+i got up at seven.
+i hate the winter.
+i have a headache.
+i have no regrets.
+i heard tom laugh.
+i heard tom shout.
+i kicked tom hard.
+i like watermelon.
+i lost my glasses.
+i met tom outside.
+i read some books.
+i read some books.
+i saw tom waiting.
+i saw tom working.
+i sent tom a text.
+i shook tom awake.
+i stole tom's car.
+i taught tom golf.
+i texted tom back.
+i told tom to lie.
+i used tom's idea.
+i used to be poor.
+i want to go home.
+i warned you once.
+i was intoxicated.
+i was quite lucky.
+i watched tom eat.
+i watched a movie.
+i went to harvard.
+i will do my best.
+i won't permit it.
+i'd be devastated.
+i'll be back soon.
+i'll be back soon.
+i'll go by subway.
+i'm canadian, too.
+i'm a careful man.
+i'm a human being.
+i'm a human being.
+i'm a patient man.
+i'm a simple girl.
+i'm extremely fat.
+i'm extremely shy.
+i'm in charge now.
+i'm not a teacher.
+i'm not a teacher.
+i'm not an addict.
+i'm sore all over.
+i've fed the fish.
+is it that urgent?
+is that a new tie?
+it isn't over yet.
+it won't help you.
+it's a dictionary.
+it's all over now.
+it's just a dream.
+lead bends easily.
+leave me in peace!
+let's play a game.
+let's take a trip.
+life is too short.
+look at the clock.
+may god bless you.
+my brother is out.
+my brother is out.
+my brother is out.
+my brother is out.
+my father is home.
+my hands are tied.
+my stomach's full.
+my stomach's full.
+no music, no life.
+no one was killed.
+nobody is perfect.
+pick up the phone.
+please don't quit.
+please forgive me.
+please reconsider.
+put your hands up!
+save it for later.
+she became famous.
+she isn't married.
+she isn't married.
+she isn't married.
+she isn't married.
+she looks unhappy.
+she loves singing.
+she made him rich.
+something changed.
+stop being stupid.
+stop being stupid.
+stop overreacting.
+take the medicine.
+that's all i want.
+that's all i want.
+that's all i want.
+that's not french.
+the answer is yes.
+the boy came back.
+the girls laughed.
+the water is warm.
+they are teachers.
+they are teachers.
+they got addicted.
+this coat is warm.
+this is my school.
+this is my school.
+this is your wine.
+this may help you.
+this may help you.
+today is thursday.
+tom can swim well.
+tom doesn't smoke.
+tom doesn't smoke.
+tom hates spiders.
+tom is a bit late.
+tom is a tall man.
+tom is a tall man.
+tom is at the bar.
+tom is not a liar.
+tom is optimistic.
+tom isn't violent.
+tom loves bananas.
+tom made mary mad.
+tom moves quickly.
+tom saved my life.
+tom saved my life.
+tom seemed sleepy.
+tom vomited blood.
+tom wants to quit.
+tom was horrified.
+tom won the match.
+tom's interesting.
+turn on the radio.
+two beers, please.
+we demand justice.
+we only take cash.
+we went to boston.
+we were in boston.
+we're leaving now.
+what a tacky idea!
+what if i'm right?
+what if i'm right?
+what're you doing?
+what're you doing?
+what're you doing?
+what's this smell?
+when do you write?
+where is a doctor?
+where is a doctor?
+where is the bank?
+where is the bank?
+where will you go?
+where will you go?
+where's the vodka?
+who really called?
+who really called?
+why are you lying?
+yes, i kissed him.
+yes, i kissed him.
+you are beautiful.
+you can have mine.
+you have one hour.
+you have one hour.
+you have to leave.
+you may leave now.
+you must stop him.
+you'll get lonely.
+you'll never know.
+you'll never pass.
+you're a good boy.
+you're a good boy.
+you're both liars.
+you're both right.
+you've got cancer.
+your lips are red.
+a cat is not human.
+are you a canadian?
+are you busy today?
+are you busy today?
+are you two hungry?
+ask tom for advice.
+can i see this one?
+do they have money?
+don't be so greedy.
+don't get me wrong.
+don't talk so loud.
+drink to my health.
+everybody got sick.
+everyone hesitated.
+everything changed.
+everything matters.
+everything stopped.
+excuse me a minute.
+have you gone nuts?
+have you gone nuts?
+he disliked school.
+he kept me waiting.
+he studies chinese.
+how're you feeling?
+i baked tom a cake.
+i can't believe it.
+i didn't know that.
+i don't play rugby.
+i don't understand.
+i feel much better.
+i feel very guilty.
+i grew up with tom.
+i had a good sleep.
+i have a black dog.
+i have my own room.
+i have to go alone.
+i knew i would win.
+i know your mother.
+i like korean food.
+i love red parrots.
+i love this school.
+i may die tomorrow.
+i may die tomorrow.
+i need another one.
+i need body lotion.
+i need body lotion.
+i need more butter.
+i need to warn tom.
+i never drink beer.
+i never touch beer.
+i often read books.
+i really like snow.
+i really like snow.
+i tried not to cry.
+i tried not to cry.
+i want to be happy.
+i want to kiss you.
+i want to kiss you.
+i wanted red shoes.
+i was born in 1980.
+i was born in 2013.
+i was forced to go.
+i wasn't even here.
+i wasn't even here.
+i went to the bank.
+i will go on ahead.
+i wish i could fly.
+i'll be there soon.
+i'm like my father.
+i'm like my father.
+i'm not going back.
+i'm really serious.
+i'm still a member.
+i'm very depressed.
+i've caught a cold.
+i've never met her.
+is that real blood?
+is this your money?
+is this your money?
+is your gun loaded?
+it must be a virus.
+it seems difficult.
+it was tom's fault.
+it was unavoidable.
+it's fun to travel.
+it's very hot here.
+just water, please.
+knowledge is power.
+let's move the bed.
+let's take the bus.
+life is a delusion.
+life is never easy.
+no one believed me.
+no one was at home.
+pick up your trash.
+please have a seat.
+please have a seat.
+please let us know.
+please remain calm.
+please shake hands.
+relax for a second.
+return immediately.
+she came to my aid.
+she goes to school.
+she has small feet.
+she is very pretty.
+she's an alcoholic.
+some water, please.
+someday, i'll know.
+something happened.
+something happened.
+stop looking at me.
+that's unavoidable.
+the apples are red.
+the battery's dead.
+the beach is empty.
+the house is empty.
+the light went out.
+the night was cold.
+the room was quiet.
+the spider is dead.
+the telephone rang.
+the thief ran away.
+the wind picked up.
+the wind picked up.
+there's no way out.
+they have no proof.
+they have no proof.
+this cake is sweet.
+this is very sweet.
+this is your house.
+tie your shoelaces.
+times have changed.
+tom ate my dessert.
+tom bought a horse.
+tom could be lying.
+tom died on monday.
+tom got very happy.
+tom has asperger's.
+tom has been fired.
+tom hired a lawyer.
+tom hired a lawyer.
+tom is a rough man.
+tom is a timid kid.
+tom is open-minded.
+tom is pessimistic.
+tom is quite a guy.
+tom made mary rich.
+tom made me a cake.
+tom must be helped.
+tom must be helped.
+tom never helps me.
+tom owns this land.
+tom picked flowers.
+tom reassured mary.
+tom said he's weak.
+tom wants this one.
+tom was astonished.
+tom won't be bored.
+tom won't eat that.
+tom's nose was red.
+we have lots to do.
+we have lots to do.
+we need more flour.
+we need more flour.
+we were retreating.
+we're still eating.
+we're still eating.
+we've been worried.
+what are you doing?
+what are you doing?
+what narrow stairs!
+what's tom singing?
+when will you come?
+where's tom hiding?
+where's tom's file?
+where's the butter?
+where's the butter?
+who is that person?
+who is that person?
+whose book is that?
+whose book is this?
+whose is that book?
+wi-fi is available.
+will it rain today?
+you see, i'm right.
+you'll never guess.
+you're married now.
+you're quite right.
+you're quite right.
+you're very astute.
+your lips are blue.
+your lips are blue.
+am i older than you?
+are you almost done?
+are you still alone?
+can i have this cup?
+can you really swim?
+chivalry isn't dead.
+did you hear it too?
+do you go to school?
+do you have a house?
+do you like english?
+do you like english?
+do you like cooking?
+do you like cooking?
+do you like running?
+do you like running?
+do you like singing?
+do you like singing?
+do you study french?
+do you want to help?
+do you want to help?
+don't call me again.
+don't slam the door.
+don't talk nonsense!
+don't you like cats?
+dreams do come true.
+drink your tea, tom.
+everybody loves her.
+everybody loves him.
+everyone knows this.
+everything's normal.
+he bought her a dog.
+he can ride a horse.
+he denied that fact.
+he is a rude person.
+he is a rude person.
+he is playing music.
+he often comes late.
+he took a short cut.
+he's doing his best.
+he's in his fifties.
+his dream came true.
+his speech moved us.
+how are you feeling?
+how many were there?
+how may i serve you?
+how's your headache?
+i acted like a fool.
+i always study hard.
+i am in tokyo today.
+i called the police.
+i can see the light.
+i did nothing wrong.
+i don't know either.
+i don't sleep a lot.
+i don't sleep a lot.
+i don't sleep a lot.
+i feel the same way.
+i felt the same way.
+i gave tom the keys.
+i gave tom the keys.
+i hate eating alone.
+i have a big family.
+i have a dictionary.
+i have to leave now.
+i have to visit tom.
+i heard tom's voice.
+i just want to rest.
+i made reservations.
+i made reservations.
+i need to finish it.
+i never wanted this.
+i saw tom on monday.
+i saw him last week.
+i saw him last week.
+i tried to act cool.
+i tried to save tom.
+i was almost killed.
+i work in a factory.
+i'll do it tomorrow.
+i'll give it to tom.
+i'll give it to tom.
+i'll give it to tom.
+i'll never tell you.
+i'll take the wheel.
+i'm absolutely sure!
+i'm afraid of dying.
+i'm bigger than you.
+i'm good at cooking.
+i'm not a communist.
+i'm not in the mood.
+i'm not in the mood.
+i'm still in school.
+i'm still in school.
+i'm thinking of you.
+i've been kidnapped.
+i've got a question.
+i've had a long day.
+i've seen you on tv.
+is santa claus real?
+is that our problem?
+is there a late fee?
+it is white as snow.
+it isn't impossible.
+it was seven thirty.
+it's from the bible.
+it's not impossible.
+it's not your fault.
+leave the door open.
+let's do this later.
+let's keep in touch.
+look straight ahead.
+may i open this box?
+monkeys climb trees.
+monkeys climb trees.
+monkeys climb trees.
+my tea is too sweet.
+my whole body hurts.
+no one was excluded.
+nobody has seen god.
+now i've had enough.
+please drive slowly.
+please make the bed.
+please speak slower.
+please wait outside.
+quick, hide in here!
+read the book aloud.
+she is dark-skinned.
+sorry, but i'm busy.
+stay away from that.
+take off your shoes.
+that's a good start.
+that's where i live.
+that's your funeral.
+the battery is dead.
+the monkey got away.
+the monkey got away.
+the monkey got away.
+the path was narrow.
+the path was narrow.
+the radio is broken.
+the radio is broken.
+the victory is ours.
+the zipper is stuck.
+the zipper is stuck.
+there are no spoons.
+they all were wrong.
+they need the money.
+they're vegetarians.
+this is my business.
+this is my business.
+this is so relaxing.
+this is so relaxing.
+this novel bores me.
+this site is useful.
+tom died very young.
+tom disappointed me.
+tom downed his beer.
+tom has two sisters.
+tom held his breath.
+tom is a bit scared.
+tom is a single dad.
+tom is multilingual.
+tom is still single.
+tom knows my number.
+tom lives next door.
+tom looks very sick.
+tom must be winning.
+tom saw mary crying.
+tom seems to be shy.
+tom started yelling.
+tom waited for mary.
+tom was daydreaming.
+tom was traumatized.
+tom wasn't the star.
+tom works part-time.
+tom's room is dirty.
+was the bank closed?
+was the bank closed?
+watch your language.
+watch your language.
+we are good friends.
+we both love poetry.
+we had fun with tom.
+we have a white cat.
+we need your advice.
+we reached our goal.
+we were born to die.
+we'll be right here.
+we'll be right here.
+we're still friends.
+we've got a visitor.
+we've got a visitor.
+what i mean is this.
+what does this mean?
+what else can i say?
+when does tom leave?
+where will you live?
+where's my computer?
+which team will win?
+who taught you that?
+you can go home now.
+you must study hard.
+you told tom, right?
+are these your socks?
+are these your socks?
+are these yours, tom?
+are you able to swim?
+are you accusing tom?
+are you accusing tom?
+are you still single?
+are you still single?
+blood was everywhere.
+can i take a message?
+cats have nine lives.
+cats have nine lives.
+colds are contagious.
+come home right away.
+come home right away.
+could i speak to tom?
+did you buy cat food?
+did you get anything?
+did you get anything?
+did you win the race?
+do spiders scare you?
+do you know that man?
+do you know that man?
+do you know who i am?
+do you know who i am?
+do you need our help?
+do you need our help?
+do you run every day?
+do you run every day?
+do you want to do it?
+dolphins are curious.
+don't lie. be honest.
+don't lie. be honest.
+everyone, say cheese.
+give me a red pencil.
+go to the barbershop.
+has tom become crazy?
+he committed suicide.
+he has lots of money.
+he is in his library.
+he is no longer here.
+he laid down the gun.
+i am telling a story.
+i arrived last night.
+i bought a new house.
+i bought her a watch.
+i can't feel my toes.
+i can't move my legs.
+i don't like science.
+i don't speak to tom.
+i don't want to live.
+i expect you to wait.
+i felt very isolated.
+i hate silent movies.
+i have caught a cold.
+i have money for you.
+i hope tom is coming.
+i major in economics.
+i meant the opposite.
+i met tom after work.
+i met tom last night.
+i need printer paper.
+i no longer like you.
+i now agree with tom.
+i read a french book.
+i really love french.
+i speak french a lot.
+i think i understand.
+i think i understand.
+i think tom is great.
+i think tom is loyal.
+i was late to school.
+i went home by train.
+i wish you happiness.
+i withdrew the offer.
+i'd like to buy this.
+i'll be glad to come.
+i'll come back later.
+i'm a french student.
+i'm a cocaine addict.
+i'm in the same boat.
+i'm not a cat person.
+i'm quite happy here.
+i'm tired of dancing.
+i'm too old to dance.
+i'm writing a letter.
+i've never loved you.
+i've won first prize!
+it is not impossible.
+it rarely snows here.
+it rarely snows here.
+it snowed last night.
+it was disappointing.
+it's not my decision.
+it's nothing special.
+it's nothing special.
+it's really hot here.
+it's really personal.
+it's very sad indeed.
+keep studying french.
+let's sing and dance.
+let's sing and dance.
+many trees fell down.
+mary is tom's cousin.
+mom, where's the cat?
+monkeys like bananas.
+my blood was boiling.
+my family is with me.
+no decision was made.
+no news is good news.
+no one recognized me.
+no one recognized me.
+nobody had any money.
+nobody had any money.
+nobody knew about it.
+nobody recognized me.
+nobody wants to work.
+nothing is ever easy.
+nothing is ever easy.
+one woman was killed.
+open the door for me.
+people are dying now.
+practice your french.
+she gave him a clock.
+she has ten children.
+she is a real beauty.
+she is a real beauty.
+some people are evil.
+sorry for being late.
+talk to me in french.
+that isn't an option.
+that made me curious.
+that made me curious.
+that made me curious.
+that made me curious.
+that made me nervous.
+that medicine worked.
+that medicine worked.
+that sounds sensible.
+that wasn't the case.
+that's a lovely idea.
+that's a lovely idea.
+that's a proven fact.
+that's all i can see.
+that's all i'm doing.
+that's all i'm doing.
+that's all we wanted.
+that's just about it.
+that's just my guess.
+that's just my guess.
+that's just not cool.
+that's my dictionary.
+that's my goal today.
+that's my main focus.
+that's my only focus.
+that's my only worry.
+that's the sad truth.
+the battery gave out.
+the cats are meowing.
+the game starts 2:30.
+the monkey came down.
+they are vegetarians.
+they're watching you.
+this camera is cheap.
+this cat is very fat.
+this is a great book.
+this is how i did it.
+this is my dream job.
+this room is too big.
+this sounds familiar.
+this sounds familiar.
+tom acts like a thug.
+tom baked three pies.
+tom can fix anything.
+tom can fix anything.
+tom crossed the line.
+tom cut his own hair.
+tom cut his own hair.
+tom danced with mary.
+tom did that already.
+tom didn't buy bread.
+tom failed to appear.
+tom felt lightheaded.
+tom fixed everything.
+tom is a bit nervous.
+tom is a common name.
+tom is a timid child.
+tom is a timid child.
+tom is bad at french.
+tom is bedridden now.
+tom is bedridden now.
+tom is bedridden now.
+tom is extremely shy.
+tom is holding a gun.
+tom is narrow-minded.
+tom is taking a rest.
+tom is taking a rest.
+tom is the strongest.
+tom met mary in 2013.
+tom needs protection.
+tom often comes here.
+tom said he's hungry.
+tom seems interested.
+tom seems unbothered.
+tom taught me french.
+tom taught us french.
+tom used to be weird.
+tom was acting weird.
+tom was born in 2013.
+tom was the luckiest.
+tom wasn't breathing.
+water reflects light.
+we already know that.
+we need to leave now.
+we needed more money.
+we ran after the cat.
+we want to make sure.
+we went to the river.
+what are you washing?
+what scares you most?
+what's the real goal?
+when's your birthday?
+when's your birthday?
+who taught you music?
+whose pencil is this?
+whose skis are these?
+why can't they do it?
+why can't they do it?
+why do you work here?
+will you help us now?
+yesterday was sunday.
+you can hide in here.
+you can learn french.
+you can't be serious.
+you guys are awesome!
+you know i'm married.
+you should go to bed.
+you two are adorable!
+you're extraordinary.
+you're looking tired.
+you're looking tired.
+you're looking tired.
+your hand is shaking.
+all lawyers are liars.
+am i talking too much?
+are we off the record?
+are you a drug addict?
+believe in yourselves.
+both of you are right.
+caffeine is addictive.
+can i borrow your pen?
+close your eyes again.
+did you come by train?
+do you have a lighter?
+do you have a lighter?
+do you have a website?
+do you have a website?
+do you know this song?
+do you like bean soup?
+do you live near here?
+do you need the phone?
+do you want to try it?
+do you want to try it?
+don't eat the oysters.
+don't forget the past.
+don't forget to floss.
+don't go near the dog.
+don't joke about that.
+don't lie anymore, ok?
+don't lie anymore, ok?
+don't stare at people.
+don't you laugh at me.
+everybody loves music.
+french is fascinating.
+french is interesting.
+french is very useful.
+give me your sandwich.
+go say goodbye to tom.
+he fell from the tree.
+he fell from the tree.
+he has a lot of money.
+he is german by birth.
+he is a famous artist.
+he is a man of action.
+he looked quite tired.
+he was about to speak.
+he was born in africa.
+he was nearly drowned.
+he was nearly drowned.
+his face turned white.
+how long did you stay?
+i am an honest person.
+i ate at a restaurant.
+i called tom for help.
+i didn't come by taxi.
+i explained it to him.
+i hate myself as well.
+i have a student visa.
+i heard what happened.
+i knew tom would lose.
+i know tom personally.
+i like korean cuisine.
+i like korean cuisine.
+i like helping others.
+i live in the country.
+i really like puppies.
+i recommend this book.
+i run faster than tom.
+i think tom is lonely.
+i think they like you.
+i used to play tennis.
+i want to go to sleep.
+i want to go to sleep.
+i want to visit korea.
+i wanted to go abroad.
+i was very busy today.
+i wish i were younger.
+i wonder why tom left.
+i'd advise doing that.
+i'd like to check out.
+i'll be busy all week.
+i'll be busy all week.
+i'll be there at 2:30.
+i'll give this to tom.
+i'm a little confused.
+i'm a little confused.
+i'm going to be there.
+i'm going to help you.
+i'm going to help you.
+i'm kind of surprised.
+i'm not young anymore.
+i've finished the job.
+is tom still sleeping?
+is that why they died?
+it happened in boston.
+it made me very angry.
+it must be really bad.
+it's a social problem.
+it's very hot in here.
+its origin is unknown.
+keep next sunday free.
+lawyers are all liars.
+let the bird fly away.
+let's go and find tom.
+let's just be friends.
+like father, like son.
+listen to your father.
+look, i'm really busy.
+maybe tom can join us.
+maybe this would help.
+my cat will love this.
+my friends are stupid.
+my nose is stuffed up.
+my whole body is sore.
+no one encouraged her.
+no one listened to me.
+nobody encouraged her.
+nobody encouraged him.
+nobody listened to me.
+one of my teeth hurts.
+playing tennis is fun.
+please think about it.
+put your mind at ease.
+quick, hide over here!
+remember tom's advice.
+seize the opportunity.
+seize the opportunity.
+set your mind at ease.
+she achieved her goal.
+she attempted suicide.
+she has abundant hair.
+should i learn french?
+smiling is contagious.
+so, you're not coming?
+something's happening.
+stick out your tongue.
+suicide isn't painful.
+take the money and go.
+tears filled her eyes.
+tears filled her eyes.
+that man stole my bag.
+that was tom's choice.
+that's not a question.
+the clock has stopped.
+the heart is a muscle.
+the leaves are yellow.
+there was an accident.
+there was no one home.
+there was one witness.
+they made fun of mary.
+this heater burns gas.
+this is a french word.
+this is a catastrophe.
+this is my dictionary.
+this room is too dark.
+tom acts like a child.
+tom attempted suicide.
+tom can't play tennis.
+tom committed suicide.
+tom didn't marry mary.
+tom dropped his knife.
+tom had to rent a car.
+tom is getting coffee.
+tom is going home now.
+tom is gone, isn't he?
+tom is making a movie.
+tom is my good friend.
+tom is playing a game.
+tom is scared of dogs.
+tom isn't helping any.
+tom lost his eyesight.
+tom ran after the dog.
+tom reacted instantly.
+tom refused to answer.
+tom sanded the floors.
+tom was almost killed.
+tom went home by taxi.
+tom's dog is very big.
+tom's dream came true.
+tom's pulse is normal.
+tom's speech was good.
+tom, i need your help.
+tom, i need your help.
+wash your hands first.
+wash your hands first.
+we don't talk anymore.
+we ought to leave now.
+we're doing ok so far.
+what do you call this?
+what do you think now?
+what do you think now?
+what're you doing now?
+what's this in french?
+what's your real goal?
+when is your birthday?
+when should i do that?
+which jacket is tom's?
+who is that old woman?
+why did you lie to me?
+why do you hate women?
+why do you hate women?
+why do you want a car?
+why don't you eat now?
+winter is approaching.
+you came home at 5:00.
+you must do your duty.
+you need to follow me.
+you need to leave now.
+you should smoke less.
+you should smoke less.
+your cat scratched me.
+"who is it?" "it's me."
+a mosquito just bit me.
+can i eat on the plane?
+can you give me a lift?
+come on. give it a try.
+did you get my message?
+did you just insult me?
+do ghosts really exist?
+do you come here a lot?
+do you have a nickname?
+do you have a passport?
+do you often take naps?
+do you study every day?
+do you want me to sing?
+do you want to do that?
+don't close the window.
+fog hung over the lake.
+french isn't difficult.
+give me another chance.
+god knows what we need.
+have you tested it yet?
+he deserves punishment.
+he did nothing but cry.
+he escaped from prison.
+he left three days ago.
+he used the dictionary.
+he will soon come back.
+he's addicted to drugs.
+here comes our teacher.
+hey, where's your ring?
+his reply was negative.
+i attended his funeral.
+i attended his funeral.
+i can't go any farther.
+i did it for the money.
+i dislike cold weather.
+i don't like chocolate.
+i don't like your name.
+i don't like your name.
+i don't understand you.
+i don't understand you.
+i don't want to suffer.
+i dreamed i kissed tom.
+i have an older sister.
+i have nothing to lose.
+i have three daughters.
+i have three daughters.
+i know tom is autistic.
+i know you hate school.
+i like to go to school.
+i like to travel alone.
+i live in an apartment.
+i never saw him before.
+i sent an email to tom.
+i think tom is winning.
+i think it's hilarious.
+i think she'll help me.
+i thought i dreamed it.
+i thought you hated me.
+i turned on the lights.
+i want to do something.
+i want to go to boston.
+i want to learn guitar.
+i went there yesterday.
+i won't buy this shirt.
+i'll meet tom tomorrow.
+i'm a taxi driver, too.
+i'm afraid to be alone.
+i'm apparently too old.
+i'm just doing my best.
+i'm listening to music.
+i'm lonely without you.
+i'm not a smart person.
+i'm not as busy as tom.
+i'm sick of cat videos.
+i'm sorry that i cried.
+i'm sorry that i cried.
+i'm too tired to think.
+is tom a canadian, too?
+is tom a canadian, too?
+is it a social problem?
+it has to be one of us.
+it was raining outside.
+it's october the third.
+it's impossible to fix.
+it's not tom's problem.
+it's time to go to bed.
+it's written in french.
+kendo is a martial art.
+let's share this money.
+mary and i are engaged.
+may i go to the toilet?
+may i see your license?
+my body aches all over.
+my daughter's your age.
+my throat is a bit dry.
+no one listens anymore.
+please check my vision.
+please don't sit there.
+selling cars is my job.
+selling cars is my job.
+she gave him a present.
+she has a little bread.
+she kissed me, not him.
+she majors in medicine.
+she majors in medicine.
+should we wait for tom?
+someone stole my watch.
+something is happening.
+something's wrong here.
+stop biting your nails.
+stop worrying about me.
+thanks for the warning.
+that sounds reasonable.
+the eggs are still hot.
+the price includes tax.
+the snow began to melt.
+the sooner, the better.
+there's a storm coming.
+there's no hope for me.
+these are yours, right?
+they both speak french.
+they live in this town.
+they will be very glad.
+they're digging a hole.
+this clock is accurate.
+this happens every day.
+this is a little weird.
+this is excellent wine.
+this is not disneyland.
+this is very ingenious.
+this pizza is terrible.
+this sounds reasonable.
+this soup is too salty.
+this word isn't french.
+those glasses suit you.
+tom also learns french.
+tom asked me for money.
+tom broke up with mary.
+tom can read, can't he?
+tom doesn't sleep much.
+tom got what he wanted.
+tom had plenty of help.
+tom has beautiful eyes.
+tom has done well here.
+tom has three children.
+tom hasn't decided yet.
+tom is a great manager.
+tom is a great manager.
+tom is a great manager.
+tom is a single father.
+tom is a wonderful man.
+tom is allowed to stay.
+tom is building a wall.
+tom is late, as always.
+tom is obviously wrong.
+tom is our interpreter.
+tom is quite motivated.
+tom is quite motivated.
+tom is quite motivated.
+tom is really decisive.
+tom is really friendly.
+tom is smart and funny.
+tom is smoking a cigar.
+tom is tall and strong.
+tom is very happy here.
+tom learns french, too.
+tom often climbs trees.
+tom opened the windows.
+tom saw through my lie.
+tom says you're lonely.
+tom seems to be lonely.
+tom smoked a cigarette.
+tom still looks sleepy.
+tom was deeply shocked.
+tom will win, won't he?
+unbelievable, isn't it?
+we own a dog and a cat.
+we're both from boston.
+we're college students.
+we're college students.
+we're in the same boat.
+what a big supermarket!
+what are you doing now?
+what causes loneliness?
+what color do you like?
+what do you plan to do?
+what does it feel like?
+what language was that?
+what's your cat's name?
+when will you get home?
+where does that bus go?
+where does that bus go?
+where is today's paper?
+where's tom's computer?
+where's my apple juice?
+why are you so popular?
+why didn't you help me?
+why didn't you help me?
+why does tom hate mary?
+why is the baby crying?
+why should we hire you?
+will we arrive on time?
+you really should rest.
+you're quite forgetful.
+you're still too young.
+a dog was following tom.
+ants are social insects.
+are there any questions?
+are there any solutions?
+are these your pictures?
+are you almost finished?
+are you sure about that?
+are you sure about this?
+are you sure about this?
+can i borrow your phone?
+can i borrow your radio?
+can we still be friends?
+can you really not swim?
+children need to be fed.
+crocodiles are reptiles.
+did you wash the dishes?
+do you have a cellphone?
+do you have the picture?
+do you remember my name?
+do you remember my name?
+don't let them hurt tom.
+don't touch the flowers.
+don't touch the flowers.
+drive at a steady speed.
+give me a second chance.
+good morning, everybody.
+good morning, everybody.
+greece has many islands.
+have you been to boston?
+have you ever done that?
+he asked us to help him.
+he invited me to dinner.
+he is a baseball player.
+he is just killing time.
+he is looking for a job.
+he is looking for a job.
+i almost died yesterday.
+i also want to be happy.
+i always get up at 6:30.
+i can help you tomorrow.
+i didn't want any of it.
+i don't like this store.
+i don't want to get fat.
+i enjoy taking pictures.
+i hate myself sometimes.
+i have to defend myself.
+i have to defend myself.
+i hear you're very rich.
+i hear you're very rich.
+i heard a buzzing noise.
+i hope that i can do it.
+i know that tom can win.
+i looked out the window.
+i often dream in french.
+i rarely make a mistake.
+i read a book in french.
+i really like what i do.
+i really love what i do.
+i really wanted to help.
+i saw something strange.
+i shouldn't've told you.
+i speak french a little.
+i take back what i said.
+i tried to make friends.
+i use this all the time.
+i use this all the time.
+i used to be happy here.
+i used to drive a truck.
+i want to see you smile.
+i was at home yesterday.
+i was happy to help you.
+i was too scared to ask.
+i was very disappointed.
+i wish i had more money.
+i'd like three of these.
+i'd like you to go away.
+i'll follow your advice.
+i'm feeling a bit tired.
+i'm going to do my best.
+i'm going to do my best.
+i'm going to take a nap.
+i'm not as lucky as you.
+i'm seeing a trend here.
+i'm sorry i doubted you.
+i'm too busy to see tom.
+i'm waiting for a reply.
+i've made some mistakes.
+is all this money yours?
+is this your dictionary?
+it was sunday yesterday.
+it's awfully warm today.
+it's awfully warm today.
+it's just not that easy.
+it's really hot in here.
+kick as hard as you can.
+kick as hard as you can.
+let's get a group photo.
+let's go somewhere warm.
+let's hope tom is smart.
+may i ask you something?
+monkeys are intelligent.
+monkeys are intelligent.
+my boss thinks he's god.
+my husband is a teacher.
+never press this button.
+one plus one equals two.
+our baby can't talk yet.
+our wedding is tomorrow.
+please lend me your car.
+please tell him to wait.
+she came home very late.
+she is dressed in white.
+she wants to keep a cat.
+show me another example.
+something is wrong here.
+something was happening.
+something was happening.
+sometimes i hate myself.
+stay a while and listen.
+tell me what's going on.
+tell me what's going on.
+that's a real good sign.
+that's my favorite song.
+the dog stopped barking.
+the keys were in my bag.
+the signal turned green.
+the sky is cloudy today.
+the sky is cloudy today.
+the sun melted the snow.
+there are children here.
+these curtains are ugly.
+they entered the forest.
+they entered the forest.
+they entered the forest.
+they entered the forest.
+think whatever you want.
+this dictionary is mine.
+this is a dangerous job.
+this is a very old book.
+tom aimed at the target.
+tom certainly thinks so.
+tom didn't believe mary.
+tom didn't get up early.
+tom didn't stop to help.
+tom died in his kitchen.
+tom doesn't eat dessert.
+tom dyed his hair green.
+tom fell into the water.
+tom has three computers.
+tom has to learn french.
+tom is a lovable person.
+tom is a very good cook.
+tom is a very good cook.
+tom is an amazing actor.
+tom is breathing deeply.
+tom is in the same boat.
+tom is tall for his age.
+tom isn't a drug addict.
+tom lacks social skills.
+tom looks pretty sleepy.
+tom never did like mary.
+tom never did like mary.
+tom never did like mary.
+tom never did like mary.
+tom plays the saxophone.
+tom said i looked tired.
+tom said that he was ok.
+tom sat in the darkness.
+tom seemed to be lonely.
+tom sleeps all the time.
+tom started getting mad.
+tom taught french to us.
+tom understands physics.
+tom wants to play games.
+tom was totally into it.
+tom will never catch me.
+tom works in a bank now.
+tom's house is for sale.
+tomorrow is my birthday.
+we didn't find a weapon.
+we have a party tonight.
+we should get back home.
+we'll take care of that.
+what are you hinting at?
+what do you want to eat?
+what does it consist of?
+what is his nationality?
+what we need is a break.
+what's the horse's name?
+where are we going, tom?
+where are your car keys?
+where do you want to go?
+which one of you is tom?
+why are you still awake?
+why is he staring at me?
+why is the store closed?
+why is the store closed?
+yes, that's what i mean.
+you don't know anything.
+you have three problems.
+you need to be prepared.
+you or i will be chosen.
+you seemed to be lonely.
+you should quit smoking.
+you should quit smoking.
+you should stop singing.
+you should study french.
+you would never do that.
+you're out of your mind.
+you're still a beginner.
+you're very competitive.
+your son isn't like you.
+a square has four angles.
+alkalis neutralize acids.
+always cite your sources.
+an accident has occurred.
+bread is made from flour.
+call the fire department!
+can you help me a little?
+could you give me a lift?
+did you feed the parrots?
+did you make it yourself?
+do as i say, not as i do.
+do you have a cell phone?
+do you have a cell phone?
+do you have any children?
+do you know why i'm here?
+do you like baking cakes?
+do you understand or not?
+do you want me to answer?
+don't treat me like that.
+everyone loves a freebie.
+few people have two cars.
+flour is made from wheat.
+greece is an old country.
+have you ever been drunk?
+have you ever been fired?
+have you fed the parrots?
+have you seen him before?
+he is employed in a bank.
+he looks old for his age.
+he married a pretty girl.
+he quit school last week.
+he seldom goes to church.
+his speech was too short.
+how badly was tom beaten?
+how's the business going?
+i can't believe all this.
+i can't get over my cold.
+i can't live without you.
+i can't stand that noise.
+i didn't take my hat off.
+i don't like tom anymore.
+i don't use social media.
+i don't want to die here.
+i don't want to die here.
+i don't watch television.
+i feel like a little kid.
+i felt sad for no reason.
+i forgot to pay the rent.
+i go to school by subway.
+i got injured doing that.
+i got up early yesterday.
+i had to give up my plan.
+i have a bad imagination.
+i have a bad imagination.
+i have never felt better.
+i have no time for games.
+i have to say i envy you.
+i heard an unusual sound.
+i just need to stay calm.
+i know tom is a lazy kid.
+i know what tom is doing.
+i know you'll forgive me.
+i love vanilla ice cream.
+i met tom in the library.
+i no longer study french.
+i recognize those people.
+i saw him reading a book.
+i think i understand now.
+i tried to act impressed.
+i want tom put in prison.
+i want to learn to drive.
+i was trying to help you.
+i will never forgive you.
+i'd like to go to boston.
+i'll be back after lunch.
+i'm aware this is monday.
+i'm four months pregnant.
+i'm getting really tired.
+i'm not a morning person.
+i'm not going to give up.
+i'm not inspired anymore.
+i'm not ready to die yet.
+i'm tired of watching tv.
+i'm trying to act casual.
+i'm trying to do my best.
+i'm very happy in boston.
+i've been hungry all day.
+i've gained weight again.
+i've had a very busy day.
+is that too hard for you?
+is there a zoo in boston?
+it looks like it'll rain.
+it may take over an hour.
+it's a thing of the past.
+it's really hard to stop.
+it's really hard to stop.
+let's be friends forever.
+let's change the subject.
+let's go to the hospital.
+let's go to the hospital.
+may i go to the bathroom?
+may i go to the restroom?
+may i have this magazine?
+my blood pressure is low.
+my father was a canadian.
+my worst fears came true.
+no one knows where to go.
+oh my god, what'll we do?
+please accept my apology.
+please don't waste water.
+please sit here and wait.
+science is very exciting.
+she carried out the plan.
+she dyed her hair blonde.
+she fell down the ladder.
+she has to study science.
+she ordered a cup of tea.
+skip the boring chapters.
+tell tom that he's wrong.
+tell me i'm not dreaming.
+that's a pathetic excuse.
+that's my responsibility.
+that's my responsibility.
+that's what makes me sad.
+the boys have gone north.
+the coat is on the chair.
+the deal is all but done.
+the nail tore his jacket.
+the snow melts in spring.
+the water is really cold.
+there's been an accident.
+there's not enough water.
+they are eating just now.
+they live in a big house.
+think about what you did.
+this dog is almost human.
+this is such a sad story.
+this isn't a french word.
+tom and mary are singers.
+tom asked for a discount.
+tom asked for a discount.
+tom climbed the mountain.
+tom couldn't concentrate.
+tom didn't do the dishes.
+tom didn't move a muscle.
+tom doesn't like to lose.
+tom doesn't like to lose.
+tom doesn't look so well.
+tom gave it some thought.
+tom got off the elevator.
+tom has a beautiful wife.
+tom has narrow shoulders.
+tom has no social skills.
+tom hurt mary's feelings.
+tom is a very bad person.
+tom is as thin as a rail.
+tom is as thin as a rail.
+tom is as thin as a rake.
+tom is listening to mary.
+tom is passed out in bed.
+tom is short for his age.
+tom is still quite young.
+tom is taking baby steps.
+tom isn't a good manager.
+tom kept looking at mary.
+tom knows i hate spinach.
+tom loves to study music.
+tom reached for his cane.
+tom respects me, i think.
+tom sat down by the fire.
+tom sat in the front row.
+tom sold his car to mary.
+tom used mary's computer.
+tom wants to buy a house.
+tom wants to play a game.
+tom was a troubled child.
+tom was incredibly bored.
+tom wouldn't let them in.
+tom wouldn't let them in.
+tom, it isn't your fault.
+two plus two equals four.
+wait for us in the lobby.
+we are moving next month.
+we don't know the reason.
+we had to keep it secret.
+we must leave right away.
+we need to leave at once.
+we shouldn't've given up.
+we talked over the phone.
+what color is tom's hair?
+what did tom say exactly?
+what does that word mean?
+what does that word mean?
+what's tom in prison for?
+what's tom in prison for?
+where can i learn french?
+where do ideas come from?
+where do you want to sit?
+where is the screwdriver?
+which browser do you use?
+who's playing the guitar?
+who's playing the violin?
+whose dictionary is this?
+why are you following us?
+why are you following us?
+would you like some more?
+yesterday i got up early.
+yesterday was a good day.
+you can't erase the past.
+you can't give up on tom.
+you don't know the place.
+you have to study french.
+you need to study french.
+you should exercise more.
+you still look depressed.
+you trust tom, don't you?
+you've got to be kidding.
+all people are born equal.
+are video games addictive?
+are you calling me stupid?
+are you going to use this?
+both of them speak french.
+bring the water to a boil.
+culture destroys language.
+did you learn it from him?
+did you see the fireworks?
+do you believe god exists?
+do you have a reservation?
+do you have your passport?
+do you have your passport?
+do you know what happened?
+do you think tom is lying?
+does tom know you're here?
+french bread is delicious.
+french bread is delicious.
+have you eaten dinner yet?
+have you ever been lonely?
+have you ever been robbed?
+he arrived at the station.
+he came down to breakfast.
+he decided on the red car.
+he has a brother in tokyo.
+he plays beach volleyball.
+he plays tennis very well.
+he seldom, if ever, comes.
+he swims better than i do.
+he tried to open the door.
+he's absorbed in his work.
+he's wanted by the police.
+how many apples are there?
+how many apples are there?
+how many eggs did you buy?
+how much does a room cost?
+how much does a room cost?
+how safe are e-cigarettes?
+i called tom this morning.
+i can both sing and dance.
+i can teach french to tom.
+i can't ask tom right now.
+i can't shake off my cold.
+i can't tell you much yet.
+i didn't feel embarrassed.
+i didn't want to get hurt.
+i do not watch television.
+i don't have a tv at home.
+i don't have a cell phone.
+i don't have time for you.
+i don't have time for you.
+i don't know who to trust.
+i don't like tom and mary.
+i don't like your friends.
+i don't like your friends.
+i don't want to be lonely.
+i don't want to marry you.
+i don't want to marry you.
+i forgot my email address.
+i had no choice but to go.
+i have difficulty chewing.
+i have difficulty chewing.
+i have low blood pressure.
+i have some english books.
+i haven't kissed mary yet.
+i hope you have insurance.
+i keep dreaming about tom.
+i know why tom was crying.
+i like learning languages.
+i like learning languages.
+i like studying languages.
+i live on the fifth floor.
+i love learning languages.
+i love meeting new people.
+i prefer coffee with milk.
+i prefer spring to autumn.
+i prefer spring to autumn.
+i really should've called.
+i should've come with you.
+i shouldn't've eaten that.
+i still sometimes do that.
+i think that tom is great.
+i think that you're wrong.
+i think that you're wrong.
+i think that's inaccurate.
+i think this is important.
+i think you both know tom.
+i think you should buy it.
+i thought tom was worried.
+i thought you'd forgotten.
+i took a walk with my dog.
+i want something to drink.
+i want to become a doctor.
+i want to go out with tom.
+i want to shake your hand.
+i was skiing last weekend.
+i'd like to hear you sing.
+i'm interested in science.
+i'm just happy to see you.
+i'm learning how to drive.
+i'm looking for something.
+i'm not afraid of spiders.
+i'm still learning french.
+i'm still learning french.
+i'm taking a french class.
+i've got proof right here.
+is it going to rain today?
+is that a scientific fact?
+is the bank far from here?
+is this a sheep or a goat?
+it snowed a lot last year.
+it was nothing but a joke.
+it's a nice day, isn't it?
+it's been a very long day.
+it's dark in the basement.
+it's popular in australia.
+let me help you with that.
+let me help you with that.
+many people act like that.
+may your dreams come true.
+meet me there at midnight.
+most dogs have brown eyes.
+my brother is a professor.
+my brother is a professor.
+my brother is a professor.
+my children are in school.
+my daughter is only three.
+my mother tasted the milk.
+my throat is a little dry.
+one of my cats is missing.
+pelicans have large beaks.
+please take me to my seat.
+procrastinating is an art.
+school begins at 8:30 a.m.
+she always speaks english.
+she always speaks english.
+she bought two dozen eggs.
+she has a small black dog.
+she has done her homework.
+she said that she was ill.
+show them what you can do.
+show them what you can do.
+staying at home is boring.
+sugar is soluble in water.
+thanks for your help, tom.
+thanks for your help, tom.
+that isn't what i thought.
+that'll put you in danger.
+the funeral was yesterday.
+the humidity is very high.
+the meeting was cancelled.
+the meeting was cancelled.
+the road turns left there.
+the station is pretty far.
+the temperature is rising.
+the weather is good today.
+there must be another way.
+this book is of great use.
+this game is a lot of fun.
+this is a serious problem.
+this is an automatic door.
+this is just like a dream.
+this isn't a crime, is it?
+tom and mary are fighting.
+tom coughed up some blood.
+tom couldn't say anything.
+tom doesn't like that dog.
+tom has braided his beard.
+tom hates going to school.
+tom is a pretty good poet.
+tom is a pretty good poet.
+tom is addicted to heroin.
+tom is already doing that.
+tom is doing that already.
+tom is having a hard time.
+tom is hoping to see mary.
+tom is lonely and unhappy.
+tom is out shoveling snow.
+tom is reading a magazine.
+tom is shouting something.
+tom is sitting on his bed.
+tom is wearing blue jeans.
+tom is wearing blue jeans.
+tom learns french as well.
+tom likes butter too much.
+tom likes romantic movies.
+tom looks old for his age.
+tom made a fortune in oil.
+tom said goodbye and left.
+tom said goodbye and left.
+tom saw a lion at the zoo.
+tom shut his computer off.
+tom speaks many languages.
+tom started getting angry.
+tom taught me how to surf.
+tom was afraid to be here.
+tom was afraid to be here.
+tom went to bed very late.
+tom went to school by car.
+tom will have a hard time.
+tom wouldn't listen to me.
+tom, you've grown so fast.
+we might need to help tom.
+we're running out of ammo.
+we're university students.
+we're university students.
+were you talking about me?
+what do you do on sundays?
+what game are you playing?
+what in the world is this?
+what in the world is this?
+what's your favorite food?
+what's your favorite team?
+when did it start snowing?
+when should i feed my dog?
+where can we park the car?
+where do you want to live?
+why are you still working?
+why are you still working?
+why are you still working?
+why do i have to help tom?
+why should i learn french?
+why should i learn french?
+would you stop doing that?
+you completely ignored me.
+you have to stop drinking.
+you have to stop drinking.
+you have to stop drinking.
+you ought to study french.
+you will know soon enough.
+you'd better not tell him.
+you're lonely, aren't you?
+you've deceived me before.
+actinium melts at 1,051°c.
+are we going somewhere now?
+are you a canadian citizen?
+are you able to play organ?
+both tom and mary miss you.
+both of them are very cute.
+can i borrow your scissors?
+can i borrow your umbrella?
+can i borrow your umbrella?
+can i come some other time?
+can i find you on facebook?
+can you call a taxi for me?
+can you lend me 10,000 yen?
+coconuts have a hard shell.
+could i speak to you alone?
+did you draw this yourself?
+did you receive my message?
+do i look desperate to you?
+do you have a mobile phone?
+do you want me to help you?
+do you want some breakfast?
+do you want to take a walk?
+don't move till i get back.
+dreams sometimes come true.
+have you ever been engaged?
+have you ever been in jail?
+have you ever been in love?
+have you ever seen a whale?
+he didn't know what to say.
+he invited me to the party.
+he made his will last year.
+he said hello to the woman.
+he stayed here for a while.
+he's somewhere in the park.
+how can i change your mind?
+how do you want your steak?
+i ate three pieces of cake.
+i bet tom knows the answer.
+i can't decode the message.
+i can't get rid of my cold.
+i can't stand these people.
+i didn't ask for your help.
+i didn't know who you were.
+i do that almost every day.
+i don't like being cheated.
+i don't read french novels.
+i don't think tom is sorry.
+i don't want to go outside.
+i feel so lonely sometimes.
+i frequently go to museums.
+i have a terrible headache.
+i hope that you'll help me.
+i know tom was proud of me.
+i must've lost some weight.
+i need a red ballpoint pen.
+i need somebody to talk to.
+i need somebody to talk to.
+i need somebody to talk to.
+i really love french books.
+i saw a man enter the room.
+i saw him cross the street.
+i soon learned how to swim.
+i think i'll buy a new car.
+i think i'll buy a new car.
+i think i'm a good surgeon.
+i think tom has lied to us.
+i think this is ridiculous.
+i think this is ridiculous.
+i think you've done enough.
+i thought i heard gunshots.
+i thought tom was canadian.
+i tried to act standoffish.
+i try to act appropriately.
+i understand what you mean.
+i used to be poor like you.
+i want to talk about girls.
+i want you to meet someone.
+i wanted to see tom's room.
+i wanted to speak with tom.
+i wanted to speak with tom.
+i was overseas at the time.
+i went to school yesterday.
+i wish i hadn't kissed you.
+i'll pay whatever it costs.
+i'll stay at home tomorrow.
+i'm a black belt in karate.
+i'm a little old-fashioned.
+i'm going to have a siesta.
+i'm not very good at chess.
+i'm proud to be a canadian.
+i'm reading a french novel.
+i'm sorry about last night.
+i'm sorry for interrupting.
+i'm sorry for interrupting.
+i'm sorry to interrupt you.
+i've been doing this wrong.
+i've been dying to see tom.
+i've been feeling stressed.
+i've learned to trust them.
+i've returned to australia.
+is all of this money yours?
+is one thousand yen enough?
+is there a pharmacy nearby?
+it only weighs 3 kilograms.
+it's a fact you can't deny.
+it's coming back to me now.
+it's no use talking to tom.
+learning french takes time.
+leave the book where it is.
+let's pretend we're aliens.
+let's stay friends forever.
+mary died of breast cancer.
+mary is knitting a sweater.
+men like to look masculine.
+merry christmas, everybody!
+my calculation was correct.
+my cell phone doesn't work.
+my clock needs to be fixed.
+my clock needs to be fixed.
+my house is near the beach.
+nobody is too old to learn.
+one year has twelve months.
+our restaurant is the best.
+our school is 80 years old.
+people are still suffering.
+please lend your car to me.
+puns are hard to translate.
+rabbits are social animals.
+she forced him to sit down.
+she has a brother in tokyo.
+she has a dog and six cats.
+she has no sense of beauty.
+she lives in a large house.
+she looked around the room.
+she says she likes flowers.
+tell tom i'll be home soon.
+tell me where you're going.
+thank you for your efforts.
+that was no ordinary storm.
+that'll teach you a lesson.
+that's your responsibility.
+the baby was crying in bed.
+the boys played in the mud.
+the cat's still very young.
+the dog was hit by a truck.
+the future looks promising.
+the gift was still wrapped.
+the medicine tastes bitter.
+the medicine tastes bitter.
+the snow has begun to melt.
+there are no stars tonight.
+there's no reason to panic.
+these earphones don't work.
+this bread looks delicious.
+this car looks pretty cool.
+this code can't be cracked.
+this house is not for sale.
+this is a very useful tool.
+tom and mary have children.
+tom appears to be sleeping.
+tom barely passed the exam.
+tom didn't understand mary.
+tom doesn't know the rules.
+tom finally found his keys.
+tom grew up in the suburbs.
+tom has a dog named cookie.
+tom has low blood pressure.
+tom has more money than me.
+tom initialed the document.
+tom is a very quiet person.
+tom is ashamed of his body.
+tom is ashamed of his body.
+tom is eating potato chips.
+tom is having a tough time.
+tom is in a very good mood.
+tom is quite shy, isn't he?
+tom is unbelievably naïve.
+tom is wearing a blue coat.
+tom is wearing a blue coat.
+tom is writing a novel now.
+tom isn't tall for his age.
+tom nodded understandingly.
+tom often sings in his car.
+tom painted his room white.
+tom pondered his next move.
+tom says that he's met you.
+tom slammed down the phone.
+tom sold everything he had.
+tom stood in front of mary.
+tom suffers from headaches.
+tom swims well for his age.
+tom used to be a policeman.
+tom was diagnosed with asd.
+tom was very disrespectful.
+tom wasn't there yesterday.
+tom will never forgive you.
+tom's attitude has changed.
+tom's birthday's coming up.
+war began five years later.
+we need to review the case.
+we'll learn the truth soon.
+we'll wait until it's dark.
+we're all in the same boat.
+we're coming back tomorrow.
+we're going to the kitchen.
+we've isolated the problem.
+we've wasted a lot of time.
+what about a glass of beer?
+what are you writing about?
+what color is your new car?
+what's your skype username?
+when is the next world cup?
+when is the next world cup?
+when should i feed the dog?
+where will you go tomorrow?
+where's the subway station?
+who painted these pictures?
+who painted these pictures?
+who's going to sing for us?
+who's your favorite singer?
+who's your favorite singer?
+why are we studying french?
+why is french so difficult?
+would you mind if i helped?
+wow! it's been a long time.
+wow! it's been a long time.
+you know it doesn't matter.
+you lied to me, didn't you?
+you lied to me, didn't you?
+you, too, can learn french.
+a good idea occurred to him.
+a good memory is his weapon.
+are you making a pass at me?
+are you trying to hit on me?
+can i take your word for it?
+can the price be discounted?
+can you justify your action?
+choose one from among these.
+did tom tell you what to do?
+did you know tom was lonely?
+did you know tom was lonely?
+do you believe in evolution?
+do you have any fresh pasta?
+do you have to work tonight?
+do you know what this means?
+do you know where tom lives?
+do you two want to be alone?
+do you want to look into it?
+don't grow up to be like me.
+don't you want to try again?
+everybody likes that flower.
+everybody needs to be quiet.
+everybody wants to be loved.
+excuse me, where's the exit?
+has the snow already melted?
+have you ever donated blood?
+have you ever dreamed of me?
+have you made your decision?
+he always wears blue shirts.
+he can speak five languages.
+he committed an illegal act.
+he didn't reveal his secret.
+he is like a frog in a well.
+he left here a few days ago.
+he made up his mind quickly.
+her jokes made us all laugh.
+his eyes were full of tears.
+how do you like them apples?
+humans originated in africa.
+i already know you did that.
+i can't describe my sadness.
+i could barely open my eyes.
+i didn't know tom was ready.
+i didn't talk to the police.
+i don't celebrate birthdays.
+i don't know about this one.
+i don't want to gain weight.
+i eat meat almost every day.
+i found this under your bed.
+i got this bicycle for free.
+i had never seen him before.
+i had never seen him before.
+i haven't finished this yet.
+i haven't heard from anyone.
+i know that tom is autistic.
+i know what tom needs to do.
+i live in a small apartment.
+i live in a small apartment.
+i managed to crack the code.
+i only did the bare minimum.
+i read several books a week.
+i really feel sorry for tom.
+i recognized tom right away.
+i saw him crossing the road.
+i study french all the time.
+i suddenly got very worried.
+i think the mistake is mine.
+i think this is tom's house.
+i think you should meet tom.
+i think you're the greatest.
+i thought tom looked lonely.
+i thought he was my brother.
+i thought that he was angry.
+i told tom not to use those.
+i took the subway yesterday.
+i took the subway yesterday.
+i tried to apologize to tom.
+i understand your situation.
+i used to do that every day.
+i used to live in australia.
+i want to grow old with you.
+i want you to work with tom.
+i was miserable and unhappy.
+i wish i were an only child.
+i wrote a letter last night.
+i'd like something to drink.
+i'd like to visit australia.
+i'll speak with the teacher.
+i'm getting an mri tomorrow.
+i'm going to shoot that guy.
+i'm in the same boat as you.
+i'm not sure what they want.
+i'm not sure where to start.
+i'm older than your brother.
+i'm sorry i opened my mouth.
+i'm sorry if i offended you.
+i'm sorry that i kissed tom.
+i'm sorry, i can't help you.
+i'm still in love with mary.
+i've been working all night.
+i've been working very hard.
+i've learned a lot from tom.
+if i were you, i'd help tom.
+is it that important to you?
+is that all you want to say?
+is there enough room for us?
+it couldn't have been worse.
+it is a nice view from here.
+it's a symbol of friendship.
+it's nothing i can't handle.
+jackson fell from his horse.
+let us know what you decide.
+let's sit here on the grass.
+many people think i'm crazy.
+mary is tom's mother-in-law.
+mary is a middle-aged woman.
+most people think i'm crazy.
+my mother has four brothers.
+my sister has a sweet tooth.
+my sister has a sweet tooth.
+my son is small for his age.
+not all of my cats are gray.
+our new car is not very big.
+people are afraid of change.
+perhaps you should tell tom.
+please send it to me by fax.
+please tidy up your bedroom.
+put the car into the garage.
+she doesn't love me anymore.
+she is watering the flowers.
+she is watering the flowers.
+she kissed him on the cheek.
+she knows. she always knows.
+she stopped picking daisies.
+somebody was talking to tom.
+someone ate all my cupcakes.
+someone knocked on the door.
+someone knocked on the door.
+that depends on the context.
+that will put you in danger.
+that's where the problem is.
+that's why i can't help you.
+the cat is still very young.
+the prisoners were set free.
+the prisoners were set free.
+there's a full moon tonight.
+there's a spider in the box.
+there's no reason for panic.
+they painted their toenails.
+this plate isn't very clean.
+today is a national holiday.
+tom admitted he's done that.
+tom and i are house hunting.
+tom and i first met in 2013.
+tom and i meet every monday.
+tom can run as fast as mary.
+tom couldn't find his shoes.
+tom doesn't cut any corners.
+tom doesn't know what to do.
+tom has a learning disorder.
+tom has high blood pressure.
+tom is a boy about your age.
+tom is a decent human being.
+tom is a software developer.
+tom is a very frugal person.
+tom is like his grandfather.
+tom is overweight, isn't he?
+tom is passionate, isn't he?
+tom is sitting on the porch.
+tom is used to working hard.
+tom looks young for his age.
+tom refused to talk to mary.
+tom replied to mary's email.
+tom said he was ready to go.
+tom said he was very lonely.
+tom seems to be very lonely.
+tom turned off his computer.
+tom's boss was really angry.
+we'll meet again in october.
+we'll see who answers first.
+what are you doing that for?
+what are you doing that for?
+what are you doing that for?
+what kind of work do you do?
+what's tom's favorite drink?
+what's the weather tomorrow?
+what's your opinion on that?
+when did you come to boston?
+which newspaper do you read?
+which newspaper do you read?
+who else does tom work with?
+who is your favorite author?
+who is your favorite author?
+who is your favorite singer?
+who is your favorite singer?
+who's eaten all the cookies?
+why are you acting so crazy?
+why are you acting this way?
+why are you acting this way?
+why are you still at school?
+why are you walking so fast?
+why didn't you go to school?
+why do you like this school?
+why does tom feel so lonely?
+why don't you buy a bicycle?
+why don't you say something?
+why don't you say something?
+why hasn't the bus left yet?
+why is this happening again?
+will you lend me your knife?
+you're making a big mistake.
+your hand is as cold as ice.
+a mexican taught him spanish.
+a cute girl caught tom's eye.
+a lot of snow fell last year.
+are you sure you can do that?
+aren't you going to go there?
+buddhism originated in india.
+could you give me an example?
+could you please repeat that?
+do you expect tom to be late?
+do you have to make a speech?
+do you really think it's bad?
+does acupuncture really work?
+does acupuncture really work?
+don't expect too much of him.
+don't you want to go with me?
+everyone's going to be there.
+everyone's going to be there.
+excuse me, where is the exit?
+foxes are my favorite animal.
+guide dogs help blind people.
+have you bought a watermelon?
+have you bought a watermelon?
+have you ever been a soldier?
+have you ever been a teacher?
+have you ever been in prison?
+have you ever been on a ship?
+have you ever been to africa?
+have you ever been to boston?
+have you ever been to canada?
+have you ever been to europe?
+have you ever gone to boston?
+have you ever seen tom laugh?
+have you ever visited boston?
+he did not want her to leave.
+he didn't reply to my letter.
+he is taking a day off today.
+he joined the club last year.
+he stopped smoking last year.
+her faith in god is unshaken.
+her faith in god is unshaken.
+her faith in god is unshaken.
+her uncle is a famous doctor.
+his long speech bored us all.
+how long have you lived here?
+i can't answer your question.
+i can't answer your question.
+i can't understand this word.
+i didn't know where to begin.
+i didn't know where to start.
+i didn't think i'd be lonely.
+i didn't want to appear weak.
+i didn't want to be punished.
+i don't feel anything at all.
+i don't like cookies, either.
+i don't think i'll be lonely.
+i don't think this is a fake.
+i don't want to go to school.
+i don't want to play anymore.
+i feel like doing that today.
+i found him lying on the bed.
+i got a d on my science test.
+i had no choice but to leave.
+i hate myself for hating tom.
+i have a feeling he is right.
+i have several old computers.
+i have to ask tom a question.
+i have to give tom this book.
+i heard it on the news today.
+i hope tom knows what to say.
+i hope that she will help me.
+i knew it wasn't an accident.
+i know what you are thinking.
+i learned to write in school.
+i met your parents yesterday.
+i never asked you to help me.
+i often play tennis with tom.
+i only speak french with tom.
+i ordered pizza by telephone.
+i prefer quality to quantity.
+i promise to come back early.
+i remember seeing you before.
+i should've bought more food.
+i think tom is distinguished.
+i think that tom is offended.
+i think that tom is sensible.
+i think that everybody knows.
+i thought they wouldn't come.
+i tried to act appropriately.
+i used to be a heroin addict.
+i want tom to tell the truth.
+i want kids, but tom doesn't.
+i want to meet tom's parents.
+i was afraid i might be late.
+i was popular in high school.
+i was scolded for being late.
+i wish i were going with you.
+i wish i were somewhere else.
+i'd like to be on tv someday.
+i'd like to learn how to ski.
+i'm going to bed. good night.
+i'm going to change my shirt.
+i'm going to move next month.
+i'm just watching television.
+i'm just watching television.
+i'm little worried about you.
+i'm not going to go in there.
+i'm not sure when he'll come.
+i'm so glad that you're here.
+i'm sorry i left without you.
+i've heard this joke already.
+i've suffered as much as you.
+it is our obligation to help.
+it was a beautiful sunny day.
+it was a rhetorical question.
+it was inevitable, wasn't it?
+it's already time to go home.
+it's now time to take action.
+let's take a 10-minute break.
+life is like a game of chess.
+mary is wearing a silk dress.
+my daughter is not yet three.
+my grandfather died in korea.
+my grandfather gets up early.
+my husband is a teacher, too.
+nobody backed up what i said.
+please keep your voices down.
+she doesn't have any friends.
+she waited for him for hours.
+someone has to pay the price.
+tell me what you said to tom.
+that would make a great gift.
+the boy fell from the bridge.
+the bridge is being repaired.
+the cat prefers fish to meat.
+the little boy is at the zoo.
+the meeting went pretty well.
+the old man died from hunger.
+there are only three options.
+there's something wrong here.
+these apples look very fresh.
+they must've had an accident.
+this could hurt our business.
+this dictionary is expensive.
+this is my favorite cocktail.
+this magnet is very powerful.
+this news is important to us.
+tom and mary have a daughter.
+tom and mary weren't invited.
+tom asked for mary's address.
+tom broke one of his fingers.
+tom did that on his birthday.
+tom didn't wear a suit today.
+tom doesn't want to sit down.
+tom grew up in a rich family.
+tom has a dog and three cats.
+tom has more books than mary.
+tom has more money than i do.
+tom has quite a lot of money.
+tom is addicted to junk food.
+tom is blind, deaf, and dumb.
+tom is going to check it out.
+tom is learning how to drive.
+tom is living alone in a hut.
+tom is living alone in a hut.
+tom is very tall for his age.
+tom is wearing black glasses.
+tom isn't here, i assure you.
+tom laughed so hard he cried.
+tom learned french in school.
+tom loves me, and i love tom.
+tom maintained his innocence.
+tom maintained his innocence.
+tom noticed a change in mary.
+tom said mary was overweight.
+tom said he felt responsible.
+tom sat two rows ahead of me.
+tom seems a little dangerous.
+tom teaches french in boston.
+tom thinks that i'm romantic.
+tom tried to think logically.
+tom wanted a bigger discount.
+tom wanted a bigger discount.
+tom was killed in the battle.
+tom was very happy in boston.
+tom works for a tech company.
+tom's hobby is growing roses.
+we can take the subway there.
+we had a good time yesterday.
+we import coffee from brazil.
+we import flour from america.
+we import flour from america.
+we want you to sing the song.
+what did you do with my book?
+what does this sentence mean?
+what does this sentence mean?
+what's mary's husband's name?
+where am i supposed to sleep?
+where did you learn to write?
+who invited you to the party?
+who woke tom up this morning?
+who's your favorite composer?
+why are you acting so stupid?
+why are you always so sleepy?
+why did you want to buy them?
+why don't you leave me alone?
+why is nicotine so addictive?
+winter is my favorite season.
+would you like coffee or tea?
+would you like to go with me?
+you can't keep this a secret.
+you need to accept your role.
+you need to drink more water.
+you should've told the truth.
+you're miserable, aren't you?
+you've forgotten your change.
+all i can do is to do my best.
+all that glitters is not gold.
+are there any messages for me?
+are you enjoying your weekend?
+are you interested in science?
+can you pay attention, please?
+children and drunks don't lie.
+could someone let the dog out?
+could you help me find my dog?
+could you make sure tom is ok?
+did you hear the announcement?
+did you stop at the red light?
+did you stop at the red light?
+do you have any bags to check?
+do you suffer from depression?
+do you think we could do that?
+doctors use medical equipment.
+everyone dies sooner or later.
+everything is about to change.
+half of the apples are rotten.
+he can speak and write french.
+he earns twenty dollars a day.
+he is proud of being a doctor.
+he loves going to the theater.
+he loves going to the theater.
+he never saw his mother again.
+he takes a bath every morning.
+he turned his coat inside out.
+he was caught stealing apples.
+he was stumped by the problem.
+he went to new york on monday.
+he will return within 3 hours.
+hitler invaded poland in 1939.
+how can we solve this problem?
+how did you know we were here?
+how did you know we were here?
+humans can't live without air.
+i can handle this, no problem.
+i can't believe tom confessed.
+i can't put up with the noise.
+i decided not to go to europe.
+i don't care what you thought.
+i don't know when he's coming.
+i don't like talking with tom.
+i don't think this is a crime.
+i don't write letters anymore.
+i don't write letters anymore.
+i guess this is a coincidence.
+i had some things to work out.
+i hated myself for doing that.
+i have to look after this cat.
+i just can't get used to this.
+i just had breakfast with tom.
+i know tom is a very lazy boy.
+i know what you did in boston.
+i live an hour away from work.
+i met an old friend by chance.
+i need to buy christmas gifts.
+i need to tell tom to do that.
+i opened a bottle of red wine.
+i really can't talk right now.
+i run 10 kilometers every day.
+i saw him crossing the street.
+i saw my mother hide the cake.
+i should've never trusted tom.
+i still don't think it's fair.
+i take care of my grandfather.
+i think tom would be thrilled.
+i thought tom would be lonely.
+i thought something was wrong.
+i waited for him all day long.
+i want to get there by subway.
+i want to return to australia.
+i want to talk to all of them.
+i want you to know i love you.
+i wanted to give you a chance.
+i wish we were going together.
+i'm done watering the flowers.
+i'm glad to hear tom did that.
+i'm happiest when i'm reading.
+i'm happiest when i'm singing.
+i'm sorry i acted like a jerk.
+i'm taking a shower right now.
+i'm the owner of this company.
+i've never tried water skiing.
+is there a woman in your life?
+it is too dark for me to read.
+it may have rained last night.
+it was a traumatic experience.
+it's not as hard as you think.
+let's have a ten-minute break.
+let's take a ten-minute break.
+linux is open source software.
+mary was kidnapped by pirates.
+maybe tom doesn't remember me.
+my father can fly an airplane.
+my house is small and cramped.
+my watch needs to be repaired.
+no one lives in that building.
+no one remembered my birthday.
+nobody remembered my birthday.
+oranges are rich in vitamin c.
+our class consists of 40 boys.
+peel the potatoes and carrots.
+please explain it more simply.
+read as many books as you can.
+she hasn't heard the news yet.
+she's by far the tallest girl.
+she's by far the tallest girl.
+six squared equals thirty-six.
+sleep is better than medicine.
+sleep is better than medicine.
+some kinds of birds can't fly.
+sorry, i don't get your point.
+swimming is my favorite sport.
+take care not to catch a cold.
+thanks for taking care of tom.
+thanks for watching tom today.
+that happened over a year ago.
+that music gets on his nerves.
+that's all. there are no more.
+that's all. there are no more.
+that's my favorite expression.
+that's why i've done all this.
+the food isn't very good here.
+the moon was shining brightly.
+the price of eggs is going up.
+the river flows into the lake.
+the satellite is now in orbit.
+the world is full of problems.
+there's a hole in this bucket.
+these scissors don't cut well.
+these scissors don't cut well.
+things aren't going well today
+this film is based on a novel.
+this film is based on a novel.
+this house is mine, not yours.
+this is our biggest challenge.
+this is the law of the jungle.
+this isn't a very good brandy.
+this word has three syllables.
+tom and mary are both lawyers.
+tom came back home after dark.
+tom came here to learn french.
+tom came here to learn french.
+tom didn't seem to be so busy.
+tom doesn't like chinese food.
+tom found a job that he likes.
+tom found out what went wrong.
+tom had a good time in boston.
+tom has no idea where mary is.
+tom hid himself under the bed.
+tom is a great french teacher.
+tom is a very dedicated actor.
+tom is an electrical engineer.
+tom is in a meeting right now.
+tom is lonely, but mary isn't.
+tom is our next-door neighbor.
+tom is shoveling snow outside.
+tom is wearing a baseball cap.
+tom is wearing a yellow shirt.
+tom knows not to do that here.
+tom knows something you don't.
+tom likes to wear dark colors.
+tom often lets me use his car.
+tom practices piano every day.
+tom said that he's not sleepy.
+tom seemed a little dangerous.
+tom shot himself this morning.
+tom surrendered to the police.
+tom walked towards the stairs.
+tom wants to avoid everything.
+tom wants to avoid everything.
+tom was right about one thing.
+tom was sick, but mary wasn't.
+tom was sitting in the garden.
+tom wasn't at home that night.
+tom will be there to meet you.
+tom will never see mary again.
+two heads are better than one.
+unfortunately, no one told us.
+unfortunately, nobody told us.
+we are both in the same class.
+we're going to die, aren't we?
+we've been here since october.
+what i want now is hot coffee.
+what do you need a doctor for?
+where can i learn how to surf?
+where can i make a phone call?
+where did you put my suitcase?
+where is the closest hospital?
+which organism causes malaria?
+who buried the gold bars here?
+why are you acting so strange?
+why should i give this to you?
+why should we need more money?
+why should we need more money?
+women like men with mustaches.
+would you be happier with tom?
+would you please just go away?
+you have to speak french here.
+you talked to tom, didn't you?
+you're persistent, aren't you?
+a cat was sitting on the chair.
+another bottle of wine, please.
+antibiotics can't kill viruses.
+are you ready to start working?
+are you really willing to help?
+are you saying that i'm a liar?
+are you saying that i'm a liar?
+be careful not to catch a cold.
+be careful not to catch a cold.
+can i have the key now, please?
+does tom know that you're here?
+don't forget to sign your name.
+don't pry into my private life.
+don't pry into my private life.
+don't pry into my private life.
+everyone said that i was wrong.
+everything that lives perishes.
+exactly how much did that cost?
+five times five is twenty-five.
+french is my favorite language.
+god is always watching over us.
+he carried six boxes at a time.
+he has no chance of recovering.
+he is a native english speaker.
+he is above doing such a thing.
+he wants to work in a hospital.
+his absence was due to illness.
+how can i update this software?
+how did you know tom was lying?
+how long ago did the bus leave?
+how many children were injured?
+i assure you this isn't a joke.
+i can't stand mary's boyfriend.
+i didn't think you were coming.
+i don't know anybody in boston.
+i don't like christmas anymore.
+i don't want to be alone again.
+i don't want to study medicine.
+i enjoy watching children play.
+i feel like a brand new person.
+i forgot that tom spoke french.
+i gave my brother a dictionary.
+i had a weird dream last night.
+i have a slight headache today.
+i haven't been honest with you.
+i knew that today would be fun.
+i learned how to cook from tom.
+i like the taste of watermelon.
+i love walking along the river.
+i love walking along the river.
+i need to buy something to eat.
+i need to buy something to eat.
+i ordered a pizza on the phone.
+i play the guitar after dinner.
+i quit smoking half a year ago.
+i really hate myself right now.
+i shouldn't have sold my house.
+i shouldn't have sold my house.
+i think i'm seriously addicted.
+i think tom and mary are right.
+i think that that's inaccurate.
+i thought that you'd forgotten.
+i took this picture a week ago.
+i want to go to africa someday.
+i wish i'd married another man.
+i wish tom could've been there.
+i wonder whether tom is lonely.
+i'll see you at the restaurant.
+i'm going to go there with tom.
+i'm going to go there with tom.
+i'm in my room studying french.
+i'm sure tom will be intrigued.
+i'm too tired to walk any more.
+i've never heard of this actor.
+i've never heard of this actor.
+if it rains, i'll stay at home.
+it looks like snow, doesn't it?
+it rained throughout the night.
+it wasn't tom who talked to me.
+let's eat, drink, and be merry.
+let's see if we can get inside.
+let's sing the song in english.
+music is an art, not a science.
+my favorite subject is science.
+neither of my parents can swim.
+no one can foretell the future.
+no one can foretell the future.
+our country has a rich history.
+our yacht club has ten members.
+paris is the capital of france.
+physics is a branch of science.
+please don't walk on the grass.
+please report what's happening.
+please take me to the hospital.
+raspberries are very expensive.
+read as many books as possible.
+she has a daughter who is tall.
+she warmed herself by the fire.
+she's too young to get married.
+silver is worth less than gold.
+somebody has to take the blame.
+someone's knocking at the door.
+strawberries are in season now.
+take any train from platform 5.
+that's my favorite french word.
+that's what i was going to say.
+the blast destroyed everything.
+the news spread all over japan.
+the police are looking for you.
+the school looks like a prison.
+the weather forecast was right.
+the world is a dangerous place.
+this building has a green roof.
+this coat doesn't have pockets.
+this desk is too small for tom.
+tom asked mary for forgiveness.
+tom couldn't say anything else.
+tom didn't jump into the water.
+tom didn't jump into the water.
+tom didn't try to say anything.
+tom forgot to water the plants.
+tom got first prize, didn't he?
+tom has an appointment at 2:30.
+tom is a bit small for his age.
+tom is a man with a good heart.
+tom is a pioneer in this field.
+tom is a pioneer in this field.
+tom is a very talkative person.
+tom is addicted to painkillers.
+tom is always busier than i am.
+tom is concentrating, isn't he?
+tom is installing new software.
+tom is married to a rich woman.
+tom is now a software engineer.
+tom is suffering from insomnia.
+tom is very mature for his age.
+tom isn't making coffee, is he?
+tom lives in the room above us.
+tom married a very pretty girl.
+tom sent us christmas presents.
+tom should've stayed in boston.
+tom thinks that mary is lonely.
+tom thought mary might do that.
+tom waited for mary in his car.
+tom wants to stay home tonight.
+tom wants to stay home tonight.
+tom was unable to speak french.
+we made pancakes for breakfast.
+we were in australia last week.
+we'll get there in three hours.
+we're not all in the same boat.
+we've never lived in australia.
+we've never lived in australia.
+we've never lived in australia.
+were we supposed to ignore tom?
+what are their true intentions?
+what are you two arguing about?
+what do you have for breakfast?
+what do you want for christmas?
+where was tom during the fight?
+where were you that whole time?
+which cheese is best for pizza?
+who's that in the car with tom?
+why are you acting so childish?
+why didn't you use a pay phone?
+why do you take so long to eat?
+why don't you ever talk to tom?
+will you join me for breakfast?
+you and i have a lot in common.
+you don't speak french, do you?
+you must keep your hands clean.
+you must keep your hands clean.
+you should become a vegetarian.
+you should do that by yourself.
+you should do that by yourself.
+you won't believe what i found.
+you're getting into deep water.
+a full moon can be seen tonight.
+a virus infected tom's computer.
+africa is the poorest continent.
+all men are equal under the law.
+almost everyone arrived on time.
+at that time, i was still awake.
+can't you give me a lower price?
+can't you give me a lower price?
+do you believe this has any use?
+do you have a better suggestion?
+do you really think we can help?
+do you think animals have souls?
+does anyone oppose the new plan?
+education is the key to success.
+everybody wants permanent peace.
+five times seven is thirty-five.
+five times seven is thirty-five.
+four plus sixteen equals twenty.
+have you ever been hit by a car?
+have you ever used a typewriter?
+have you finished your homework?
+he came out of the shower naked.
+he is not ashamed of being poor.
+he successfully passed the exam.
+he told me an interesting story.
+her eyes were filled with tears.
+her eyes were filled with tears.
+his story turned out to be true.
+his story turned out to be true.
+how did you know tom would help?
+how many hamburgers did you buy?
+how much does he earn per month?
+how much does he earn per month?
+humans only live about 70 years.
+i agreed with him on that point.
+i am too tired to walk any more.
+i can only tell you what i know.
+i can only tell you what i know.
+i can't eat that salad dressing.
+i decided to go abroad to study.
+i didn't know where i should go.
+i didn't know you would do that.
+i didn't want to be interrupted.
+i don't go to school by the bus.
+i don't know much about science.
+i don't see what the problem is.
+i don't want to throw that away.
+i eat tomatoes, but tom doesn't.
+i have nowhere to sleep tonight.
+i have to give this book to tom.
+i informed tom that i'd do that.
+i know i'm going to learn a lot.
+i know tom is a terrible father.
+i know tom is afraid of spiders.
+i later regretted that decision.
+i met him on my way from school.
+i think i can beat tom's record.
+i think tom is still unemployed.
+i think tom should go on a diet.
+i think everyone makes mistakes.
+i think it'll be sunny tomorrow.
+i think that tom is still angry.
+i thought my head would explode.
+i thought that i heard gunshots.
+i thought that tom was a doctor.
+i want tom to eat lunch with me.
+i want him to solve the problem.
+i want to grow old with my wife.
+i wanted tom to be more careful.
+i wanted tom to go to australia.
+i wanted tom to meet my friends.
+i wanted tom to meet my parents.
+i was only thirteen at the time.
+i was the happiest man on earth.
+i wonder whether tom left early.
+i'll follow you wherever you go.
+i'll only be a few more minutes.
+i'm going to trust my instincts.
+i'm no longer afraid of spiders.
+i'm not good at public speaking.
+i'm not telling you to go alone.
+i'm so sorry that i doubted you.
+i've asked tom to take my place.
+i've never been so proud of you.
+i've worked three hours already.
+it happened prior to my arrival.
+it is a matter of life or death.
+it is a matter of life or death.
+it is a matter of life or death.
+it's tom's favorite french word.
+it's about time you went to bed.
+it's too heavy for tom to carry.
+let me take you to the hospital.
+most girls think they're pretty.
+most people expected tom to win.
+most people expected tom to win.
+my wife is wearing a blue dress.
+my work is not as easy as yours.
+one more bottle of wine, please.
+oranges have a lot of vitamin c.
+she asked me to wake her at six.
+she bought vegetables yesterday.
+she has a cat. the cat is white.
+she married him when she was 20.
+social media is a waste of time.
+software is constantly evolving.
+that's money that's been wasted.
+that's not very important to me.
+that's not what tom wants to do.
+that's one of my favorite words.
+the data was completely useless.
+the glass was broken by someone.
+the house is said to be haunted.
+the house is said to be haunted.
+the prices are ridiculously low.
+the river is fifty yards across.
+the sand on the beach was white.
+the tower can be seen from here.
+there are many books in my room.
+there isn't any reason to panic.
+there's already a plan in place.
+there's no other way to do this.
+these three books belong to tom.
+they were rescued by helicopter.
+this is a battle worth fighting.
+tom admitted he'd been mistaken.
+tom and mary broke up last week.
+tom and mary do as they're told.
+tom asked mary to go home early.
+tom considered changing his job.
+tom deleted a video by accident.
+tom eats meat, but mary doesn't.
+tom had his old house torn down.
+tom has been crying every night.
+tom has decided to go to boston.
+tom has decided to study abroad.
+tom has done something horrible.
+tom is a family-oriented person.
+tom is a methamphetamine addict.
+tom is a very dedicated teacher.
+tom is acting strange, isn't he?
+tom is getting better at french.
+tom is likely to make a mistake.
+tom is the strongest man i know.
+tom kicked the ball really hard.
+tom kicked the ball really hard.
+tom knows that we can't do that.
+tom learned to swim last summer.
+tom left us some food and water.
+tom lives somewhere around here.
+tom looked like he was confused.
+tom put his shirt on inside out.
+tom really made me feel at home.
+tom really wants to lose weight.
+tom said that mary was autistic.
+tom seemed to understand french.
+tom spent more money than usual.
+tom still wants to go to boston.
+tom told mary not to swim there.
+tom walks his dog every morning.
+tom wants to learn how to shoot.
+tom wasn't here when i got here.
+tom wasn't in when i dropped by.
+tom won't eat or drink anything.
+tom wore jeans and a cowboy hat.
+travel agencies' profits soared.
+unemployment is a major problem.
+we haven't increased our prices.
+we'll need a lot more than this.
+we're listening to celtic music.
+what in the world happened here?
+what time are you going to work?
+where did you spend your summer?
+which group do you want to join?
+why didn't you go to the police?
+why do you say things like that?
+why do you speak french so well?
+would you mind if i take a look?
+you can see the tower from here.
+you can't speak french, can you?
+you should've done that with us.
+you're not retired yet, are you?
+actually, we don't have a choice.
+actually, we don't have a choice.
+are you going to school tomorrow?
+could i borrow your car tomorrow?
+do you think french is difficult?
+doing that doesn't look too hard.
+don't forget to take an umbrella.
+don't you feel the house shaking?
+english is not my first language.
+even a teacher can make mistakes.
+have you ever been to disneyland?
+have you ever been to tom's home?
+have you ever studied archeology?
+he eats nothing other than fruit.
+he is really crazy about surfing.
+he is still sitting on the bench.
+he went on walking for two hours.
+i bought myself something to eat.
+i definitely won't do that again.
+i definitely won't do that again.
+i didn't sleep at all last night.
+i don't know what you want to do.
+i don't know why tom is so angry.
+i don't play tennis after school.
+i don't really have a preference.
+i don't think it's a big problem.
+i don't translate novels anymore.
+i guess i'm just a little sleepy.
+i had to work overtime yesterday.
+i hadn't seen tom in three years.
+i have an urgent message for tom.
+i have time to do that this week.
+i haven't finished breakfast yet.
+i hope that she'll get well soon.
+i just want to finish this today.
+i knew a shortcut to tom's house.
+i know i can count on all of you.
+i know a lot about this computer.
+i love you more than you love me.
+i love you more than you love me.
+i plan on attending this meeting.
+i really don't want to miss that.
+i think tom is alone in his room.
+i think everyone did really well.
+i think everyone did really well.
+i think everyone did really well.
+i think everyone did really well.
+i think it's definitely worth it.
+i think that tom is a workaholic.
+i think that tom knows something.
+i think we need to call a doctor.
+i thought tom was having a party.
+i told tom to buy a new computer.
+i want a single room if possible.
+i want to learn to defend myself.
+i was in new york for a few days.
+i was raised eating mexican food.
+i will ask him about it tomorrow.
+i won't tell anyone if you don't.
+i wonder if tom has already left.
+i wouldn't do that if i were you.
+i'd be happy to teach you french.
+i'd like to live near your house.
+i'll stay here till you get back.
+i'll try my best to arrive early.
+i'm feeling really confident now.
+i'm going to australia next year.
+i'm happy we're working together.
+i'm not able to fix the computer.
+i'm sorry to bother you so often.
+i'm the only one who can do that.
+i'm the only person who did that.
+i'm tired of watching television.
+i'm too tired to walk any longer.
+if i were you, i'd call a doctor.
+in the alphabet, b comes after a.
+it is said that he was very rich.
+it is said that he was very rich.
+it looks like it's going to rain.
+it's beautiful weather, isn't it?
+it's true tom is a strict father.
+let's hear the rest of the story.
+let's hear the rest of the story.
+mary is the richest woman i know.
+most people think that i'm crazy.
+my daughter is still quite young.
+my dogs killed one of tom's cats.
+my friend works at a supermarket.
+my hobby is collecting old coins.
+my reputation has been destroyed.
+my watch is different than yours.
+neither tom nor mary was injured.
+she married him at the age of 20.
+some animals are active at night.
+something doesn't make any sense.
+something doesn't make any sense.
+sorry, but you can't go in there.
+summer is the season i like best.
+the cat lay hidden in the bushes.
+the cause of the fire is unknown.
+the paper didn't carry the story.
+the police think tom acted alone.
+the water flows under the bridge.
+there are four seasons in a year.
+there are many islands in greece.
+there is a television in my room.
+there is a television in my room.
+this book is easy for me to read.
+this book is worth reading again.
+this book is worth reading again.
+this is just my personal opinion.
+this is just my personal opinion.
+this is what i found in the cave.
+this isn't our final destination.
+this isn't our final destination.
+this isn't our final destination.
+this mushroom is not good to eat.
+this problem is worth discussing.
+this problem is worth discussing.
+to tell the truth, i felt lonely.
+tom and mary are close relatives.
+tom couldn't hold back his anger.
+tom doesn't believe in evolution.
+tom doesn't like to speak french.
+tom drank a whole bottle of wine.
+tom has an addictive personality.
+tom has an aunt who is in prison.
+tom has been bitten by his horse.
+tom has been sleeping in his car.
+tom has been trying to help mary.
+tom hasn't called the police yet.
+tom is going to be there tonight.
+tom is just getting used to this.
+tom is no longer able to do that.
+tom is the fattest person i know.
+tom is too weak to walk that far.
+tom lived in japan for ten years.
+tom seemed to be as busy as ever.
+tom seems like a really nice guy.
+tom sees this in a different way.
+tom thought that mary was asleep.
+tom took the medicine right away.
+tom tried to speak, but couldn't.
+tom wanted to learn how to tango.
+tom was wearing a ridiculous hat.
+tom was wearing a ridiculous hat.
+tom went to australia last month.
+tom works for the united nations.
+we have little chance of winning.
+we have many varieties of coffee.
+we need to make some adjustments.
+we solved that problem in a week.
+what was the matter this morning?
+what's the best way to get there?
+when was the last time we talked?
+where in the world have you been?
+who would do something like this?
+why didn't you read the magazine?
+why didn't you read the magazine?
+why does tom hate boston so much?
+why is tom afraid to go to sleep?
+would you like to try doing that?
+you can't imagine how busy i was.
+"are you tired?" "no, not at all."
+"horses" is the plural of "horse."
+"whose book is this?" "it's mine."
+accidents arise from carelessness.
+all tom wanted was some free time.
+all of a sudden, it began raining.
+all of my software is open source.
+are you doing what you want to do?
+are you just going to stand there?
+are you sure that you can do that?
+can the matter wait till tomorrow?
+can the matter wait till tomorrow?
+can you help me for just a minute?
+can you tell where this road goes?
+can your mother speak french, too?
+cats are very interesting animals.
+could anyone tell me where tom is?
+could you tell me what that means?
+did you see the eclipse yesterday?
+do you know the rules of the game?
+do you really think i can do this?
+don't act like you're so innocent.
+don't be fooled by her appearance.
+don't forget there are exceptions.
+don't forget to answer the letter.
+don't you have a driver's license?
+eradicating malaria won't be easy.
+eradicating malaria won't be easy.
+every country has its own history.
+everybody is equal before the law.
+greta garbo was a swedish actress.
+have you ever really been in love?
+he denied having stolen the money.
+he gave me food and money as well.
+he has coached us for half a year.
+he is too young to go there alone.
+he said there was no life on mars.
+he threw a piece of meat to a dog.
+he was at the bottom of the class.
+he was at the bottom of the class.
+his speech impressed us very much.
+how many days do you plan to stay?
+how much money did you lose today?
+human beings are social creatures.
+i always do that when i'm nervous.
+i asked you to buy beef, not pork.
+i assure you that isn't necessary.
+i can't imagine a day without you.
+i didn't go to school last monday.
+i didn't go to school last monday.
+i didn't go to school last monday.
+i don't believe tom is a murderer.
+i don't like sitting on the floor.
+i don't think that this is a fake.
+i don't want to see anybody today.
+i had a very bad dream last night.
+i have no idea what tom's plan is.
+i hope there's enough air in here.
+i hope there's enough air in here.
+i hope you tore up my last letter.
+i knew that it wasn't an accident.
+i know tom is a very generous man.
+i know tom is a very quiet person.
+i know tom knows i should do that.
+i like eating fruit for breakfast.
+i like learning ancient languages.
+i missed the train by two minutes.
+i never should've gotten divorced.
+i planned to introduce him to her.
+i really appreciate all your help.
+i recommend that you learn french.
+i should've followed tom's advice.
+i think that tom is distinguished.
+i think that tom missed the train.
+i think that this is what we need.
+i usually get home by six o'clock.
+i want to learn chinese next year.
+i was late, so i missed my flight.
+i was late, so i missed my flight.
+i wish i were as smart as you are.
+i wish that tom was more like you.
+i wonder if tom is as old as mary.
+i'd like a glass of water, please.
+i'd like to change my reservation.
+i'm a member of the swimming club.
+i'm beginning to forget my french.
+i'm just telling you what i heard.
+i'm sorry, but i don't understand.
+i'm sorry, but i don't understand.
+i'm sorry, but i don't understand.
+i'm sure tom is going to be there.
+i'm too tired to walk any further.
+i've been feeling stressed lately.
+i've never played tennis with tom.
+if you cook, i'll wash the dishes.
+is your apartment well maintained?
+it might be good if you bought it.
+it was almost noon when i woke up.
+it'll become much warmer in march.
+lack of sleep is bad for the body.
+last year there was a lot of snow.
+learning languages is interesting.
+let's melt cheese on the potatoes.
+let's visit some temples tomorrow.
+let's visit some temples tomorrow.
+mary is too stubborn to apologize.
+my ideas are different from yours.
+my ideas are different from yours.
+nevertheless, i'm extremely proud.
+nobody knows why he left the town.
+nothing could sway his conviction.
+only time will help ease the pain.
+peel the potatoes and the carrots.
+police are trained to use weapons.
+several other people were wounded.
+she cannot have done such a thing.
+she drinks a little wine at times.
+she's married to a cousin of mine.
+silence is a very powerful weapon.
+snakes are cold-blooded creatures.
+some people are afraid of spiders.
+sorry, i didn't mean to scare you.
+the baby can stand but can't walk.
+the picture is in black and white.
+the picture is in black and white.
+the room is crawling with spiders.
+the room will be painted tomorrow.
+the store might be closed already.
+the sun is brighter than the moon.
+there is a television in the room.
+there is little water in the pond.
+there is no limit to human desire.
+they asked tom to play the guitar.
+this tv show is aimed at children.
+this restroom's toilet is clogged.
+this sentence needs to be checked.
+this work is not necessarily easy.
+tom and mary are in the same boat.
+tom and mary were great neighbors.
+tom barged through the front door.
+tom didn't have dinner last night.
+tom didn't have dinner last night.
+tom doesn't drink wine very often.
+tom doesn't know why i'm here yet.
+tom gave me both money and advice.
+tom has something to do right now.
+tom is better at french than i am.
+tom is not an idle boy any longer.
+tom is probably going to be there.
+tom is probably going to be there.
+tom is relatively fit and healthy.
+tom is the best drummer in boston.
+tom learned a few words in french.
+tom said he needed some more time.
+tom said he wanted to go swimming.
+tom thinks mary wasn't having fun.
+tom thinks it's a ridiculous idea.
+tom thought mary would be jealous.
+tom told us not to make any noise.
+tom was in the center of the room.
+tom wasn't able to find his shoes.
+tom wasn't with us that afternoon.
+tom will find out sooner or later.
+tom's explanation was too complex.
+we all got up and started dancing.
+we can do this without tom's help.
+we enjoyed listening to the music.
+we know what tom is going through.
+we studied french for three years.
+we're having a barbeque on sunday.
+what happened to all those people?
+what is it that you want me to do?
+what is it that you want me to do?
+what kind of game are you playing?
+where did you learn to make pizza?
+who's your favorite tennis player?
+would you like to invite a friend?
+you need to talk to tom in person.
+you should've gone to tom's party.
+you used to work here, didn't you?
+you'll soon get used to the noise.
+you're overqualified for this job.
+you're responsible for everything.
+you're the last hope for humanity.
+you've drunk three cups of coffee.
+your advice has been very helpful.
+zoos are like prisons for animals.
+"are you swedish?" "no, i'm swiss."
+a thousand meters is one kilometer.
+a wise leader knows when to listen.
+all my friends and family are dead.
+come to my house whenever you like.
+could anybody tell me where tom is?
+do you still suffer from headaches?
+have you ever been on a blind date?
+have you ever been on a helicopter?
+have you talked to the doctors yet?
+haven't i met you somewhere before?
+he has an air of mystery about him.
+he hid himself behind a large rock.
+he is the dumbest kid in the class.
+his behavior aroused my suspicions.
+how deep do you think the water is?
+how far is it to the train station?
+how long are you going to be there?
+how long do you plan to stay there?
+how long will you be staying there?
+how many more hours will this take?
+how many more people do you expect?
+how much did these sunglasses cost?
+i am not rich, nor do i wish to be.
+i asked tom not to do that anymore.
+i assure you i'm in perfect health.
+i didn't think tom would be scared.
+i didn't think you were interested.
+i don't know if i should go or not.
+i don't know who started the rumor.
+i don't want tom to move to boston.
+i don't want pizza. i'm not hungry.
+i had dinner with a total stranger.
+i had fun with tom and his friends.
+i have attempted suicide two times.
+i heard that tom attempted suicide.
+i saw tom the day before yesterday.
+i should've cooked the pork longer.
+i thanked him for what he had done.
+i thanked him for what he had done.
+i think tom went fishing with mary.
+i think that tom would be thrilled.
+i think that everything's fine now.
+i think that that's hard to answer.
+i think that we're still too young.
+i think your hypothesis is correct.
+i want to know more about you, tom.
+i was unable to finish my homework.
+i was unable to finish my homework.
+i'd like to meet your older sister.
+i'll call you when i get to boston.
+i'm glad that tom is healthy again.
+i'm going to get there before dark.
+i'm proud of tom's accomplishments.
+i'm sorry that i acted like a jerk.
+i'm sure tom won't be here tonight.
+i'm way stronger than i used to be.
+i've never actually seen a giraffe.
+if i had wings, i would fly to you.
+is nicotine as addictive as heroin?
+is there something you want to say?
+is there something you want to say?
+it can be hard to make new friends.
+it is especially cold this morning.
+it'll be ready by six this evening.
+it's a ridiculous question, really.
+it's a ridiculous question, really.
+it's far better than it used to be.
+it's not as difficult as you think.
+it's not as difficult as you think.
+it's not as difficult as you think.
+let's begin with the first chapter.
+let's begin with the first chapter.
+let's meet in front of the theater.
+look! there's a cat in the kitchen.
+many people were killed in the war.
+mr. jackson is our science teacher.
+my grandfather died five years ago.
+my internet connection was cut off.
+nothing seems to grow in this soil.
+oranges contain a lot of vitamin c.
+she asked me if i knew his address.
+she is not my sister but my mother.
+she returned a book to the library.
+she went to the hospital yesterday.
+thank you for the delicious dinner.
+that red sweater looks good on you.
+the ice is thick enough to walk on.
+the parade was led by an army band.
+the police believe tom acted alone.
+the price of oil is down this week.
+there's so much i don't understand.
+these questions are easy to answer.
+they don't want you. they want tom.
+they say this old house is haunted.
+they speak to each other in french.
+this technique isn't easy to learn.
+three people were slightly injured.
+to drive a car, you need a license.
+tom began to sing "happy birthday."
+tom could buy everything he needed.
+tom didn't know mary had a brother.
+tom didn't know mary had a brother.
+tom doesn't know anything about it.
+tom doesn't know what he has to do.
+tom doesn't usually sing in french.
+tom eyed the stranger suspiciously.
+tom is a pretty good tennis player.
+tom is a science teacher, isn't he?
+tom is going to be there, isn't he?
+tom is having a hard time focusing.
+tom is having a hard time focusing.
+tom is having a hard time speaking.
+tom is in his mid-to-late thirties.
+tom is one of my favorite students.
+tom is short for his age, isn't he?
+tom is trying to figure things out.
+tom is trying to figure things out.
+tom is wearing a pair of old shoes.
+tom kissed mary gently on the lips.
+tom prevented mary from doing that.
+tom said he was going to kiss mary.
+tom said that book was interesting.
+tom speaks french with his parents.
+tom suffers from chronic back pain.
+tom thinks mary is too old for him.
+tom usually drinks beer at parties.
+tom was swimming with us yesterday.
+tom will explain this to you later.
+tom's injuries aren't very serious.
+we can be there in fifteen minutes.
+we can't predict how tom will feel.
+we only speak french to each other.
+we spent the evening playing chess.
+what do you think of tom's new car?
+what language do you speak at home?
+what you said is complete nonsense.
+when i got home, i was very hungry.
+why are you always late for school?
+why are you always late for school?
+why are you so sure of his success?
+why are you telling this to me now?
+would you help me look for my keys?
+would you pass me the salt, please?
+you might at least say "thank you."
+you should be careful what you say.
+you're not really worried, are you?
+you've got something in your teeth.
+all of a sudden, she began to laugh.
+almost everyone expected tom to win.
+call us toll-free at 1-800-446-2581.
+didn't i tell you to close the door?
+disease is a threat to human beings.
+do you like doing crossword puzzles?
+do you like doing crossword puzzles?
+do you still live where you used to?
+don't let children play in the road.
+don't put your hands out the window.
+don't try to talk. save your energy.
+have you ever been fired from a job?
+have you ever been inside this cave?
+have you ever been to boston before?
+he came to london by way of siberia.
+he complained to her about the food.
+he's studying french and web design.
+how much money do you have with you?
+hurry up, or you'll miss your plane.
+i assure you this is only temporary.
+i caught a cold, and i have a fever.
+i didn't know tom was a drug addict.
+i didn't know you loved tom so much.
+i don't know where they hid the key.
+i don't really have a favorite song.
+i don't really want to learn french.
+i don't think this is going to work.
+i don't want tom giving mary advice.
+i have many french-speaking friends.
+i looked, but i didn't see anything.
+i must speak to you later about tom.
+i never should've come to australia.
+i regret that i did not work harder.
+i should've done better on the test.
+i think that it's a beautiful place.
+i thought that i heard you coughing.
+i thought that tom didn't like cats.
+i want to live in boston or chicago.
+i wonder if tom is still unemployed.
+i work better alone than in a group.
+i'd like to get off at fifth avenue.
+i'd like to reserve a table for two.
+i'm glad that you're back in boston.
+i'm not the one who picks the fruit.
+i'm sorry that you had to hear that.
+i'm sorry, but there's no other way.
+i've had enough of your shenanigans.
+if i tell the truth, i'll be killed.
+if tom saw you doing that, he'd cry.
+ignorant people tend to be arrogant.
+is it true you had a fight with tom?
+is it true you had a fight with tom?
+is there bus service to the airport?
+it took me several hours to do that.
+it was cloudy, with occasional rain.
+japan and south korea are neighbors.
+language changes as human beings do.
+my birthday is one month from today.
+my brother lives in a small village.
+my daughter is only three years old.
+my father passed away two years ago.
+no one speaks this language anymore.
+no one speaks this language anymore.
+please tell me when he arrives here.
+robots are used to manufacture cars.
+seoul is the capital of south korea.
+she suffers from low blood pressure.
+she'll be getting married next year.
+slavery is a crime against humanity.
+some children don't like vegetables.
+some people are difficult to please.
+spanish is spoken in many countries.
+that doesn't sound like a good idea.
+the humidity is very high, isn't it?
+the moon doesn't have an atmosphere.
+the tire factory employs 250 people.
+there are some apples in the basket.
+there isn't going to be a next time.
+this medicine will relieve the pain.
+this movie is suitable for children.
+this movie is suitable for children.
+tom jackson easily won the election.
+tom already knows mary will do that.
+tom and i had french class together.
+tom bought this horse at an auction.
+tom can swim a lot better than mary.
+tom can swim a lot better than mary.
+tom could've been seriously injured.
+tom didn't study for his final exam.
+tom doesn't care how crazy he looks.
+tom doesn't want to be disappointed.
+tom finished the work in three days.
+tom generally takes the bus to work.
+tom gets drunk almost every evening.
+tom has been rather busy these days.
+tom is going to tell mary he's busy.
+tom is in his room most of the time.
+tom knew mary was going to be there.
+tom quietly closed the bedroom door.
+tom said he spoke to mary yesterday.
+tom says he's almost ready to leave.
+tom says that his teachers hate him.
+tom thought that mary might do that.
+tom tried to speak, but he couldn't.
+tom wasn't able to sleep on the bus.
+tom wondered what mary wanted to do.
+tone of voice can indicate feelings.
+we all thought that tom had escaped.
+we make milk into cheese and butter.
+we must not be late to school again.
+we should hold some food in reserve.
+we're always in some kind of danger.
+what do you think about this outfit?
+what kind of candy is your favorite?
+what's your favorite kind of cheese?
+why do i always get up at this time?
+why do you walk when you have a car?
+you should try this. it's delicious.
+you won't believe who came by today.
+you won't believe who came by today.
+you'll only improve if you practice.
+you're the one who gave us all this.
+your brother got married, didn't he?
+a good idea occurred to me just then.
+all parts of the plants are fragrant.
+all parts of the plants are fragrant.
+are you a dog person or a cat person?
+as soon as he arrives, i'll tell him.
+don't you guys have any self-respect?
+everybody says i look like my father.
+food and water are extremely limited.
+have you been told about the problem?
+have you ever gone swimming with tom?
+he reads the newspaper every morning.
+he's not going to visit you tomorrow.
+human relationships are very complex.
+i am very concerned about his health.
+i can't believe tom is a grandfather.
+i could swim well when i was a child.
+i didn't think tom knew how to drive.
+i didn't think tom knew how to drive.
+i don't know why she is this worried.
+i don't really have a favorite color.
+i don't really have a favorite movie.
+i don't think tom is able to do that.
+i don't think that it's weird at all.
+i don't understand why tom is so mad.
+i failed to go to his birthday party.
+i have a hard time remembering names.
+i made a really big sandwich for tom.
+i met him on my way home from school.
+i need to ask you for a little favor.
+i phoned mary, but the line was busy.
+i shouldn't have stayed away so long.
+i still have some vacation days left.
+i still have some vacation days left.
+i think i've made a horrible mistake.
+i think mary is way cuter than alice.
+i think that tom has suffered enough.
+i think that this is a turning point.
+i think what tom is doing is amazing.
+i thought that my head would explode.
+i usually keep a diary when i travel.
+i usually keep a diary when i travel.
+i want a person who can speak french.
+i want to know how i can lose weight.
+i'd like to be on television someday.
+i'd love to spend christmas with you.
+i'm having a hard time concentrating.
+i'm having a hard time concentrating.
+i'm really not interested in history.
+i'm sorry i kept you waiting so long.
+i'm sorry that i ruined your wedding.
+i'm trying to help you keep your job.
+in case of fire, you should dial 119.
+in spite of everything, tom is happy.
+mary is very good at math, isn't she?
+my mom likes my brother more than me.
+not all of the students were present.
+one, three, and five are odd numbers.
+please give me another cup of coffee.
+rabbits are extremely social animals.
+she has this big room all to herself.
+some were farmers, some were hunters.
+some were farmers, some were hunters.
+that's not what tom is talking about.
+the united states is a large country.
+the boy tried to move the heavy sofa.
+the cause of the accident is unknown.
+the cause of the fire is yet unknown.
+the concert lasted about three hours.
+the cost of the book is five dollars.
+the doctor said i have a brain tumor.
+the girls won't play tennis tomorrow.
+the students of this school are kind.
+the world doesn't revolve around you.
+there was almost nothing in the room.
+there's no chance that he'll recover.
+this book is difficult to understand.
+this is a lot more fun than studying.
+three more passengers got on the bus.
+tom and mary work in the same office.
+tom asked us if we'd like to do that.
+tom doesn't want to get into trouble.
+tom filled the wheelbarrow with sand.
+tom hasn't finished his homework yet.
+tom is acting really weird right now.
+tom is having a hard time swallowing.
+tom is the star of the football team.
+tom isn't a very good french teacher.
+tom lived in australia before, right?
+tom said no one was in the classroom.
+tom told mary what john had told him.
+tom told me mary is leaving tomorrow.
+tom wants to learn how to play piano.
+tom was probably pondering something.
+tom was the one who wrote this story.
+tom won't be lonely if mary is there.
+usually, things don't work like that.
+walking the dog is my responsibility.
+we never should've gone to australia.
+we speak the same language, don't we?
+we went into a shop to get some food.
+we'll deal with that when it happens.
+what are your plans for next weekend?
+what's so interesting about baseball?
+what's so interesting about baseball?
+when did these delusions first occur?
+when does your winter vacation begin?
+while napping, i had a strange dream.
+why do you know so much about boston?
+why is tom a better choice than mary?
+would you like another cup of coffee?
+would you mind if i turned the tv on?
+you should wear a hat and sunglasses.
+you should've been doing the driving.
+your safety isn't our responsibility.
+a blood vessel burst inside his brain.
+a week from today, i'll be in england.
+april is the fourth month of the year.
+asperger syndrome is a form of autism.
+can you help me install this software?
+can you tell me why tom is doing that?
+can't you suggest something else, tom?
+could you help us translate this text?
+did you get a chance to talk with tom?
+do you have any pictures of australia?
+do you know anybody who speaks french?
+everyone except tom went to the party.
+have you already sharpened the knives?
+have you ever been bitten by your dog?
+have you ever been to another country?
+how about playing golf this afternoon?
+how did you arrive at this conclusion?
+how do you say "i love you" in french?
+how many eggs are in the refrigerator?
+how many eggs are there in the fridge?
+how many times do i need to repeat it?
+how many times do i need to repeat it?
+how many years did you live in boston?
+how much time will it take to do this?
+i actually play the piano pretty well.
+i am left with all the responsibility.
+i assured tom that i wouldn't do that.
+i couldn't come to the birthday party.
+i don't even know who has stolen what.
+i don't feel like watching tv tonight.
+i don't have money, but i have dreams.
+i don't know and i don't want to know.
+i don't know how many cousins tom has.
+i don't like cafeteria food very much.
+i don't think that it's a big problem.
+i don't want to celebrate my birthday.
+i have a hard time remembering things.
+i haven't done that since high school.
+i knew that tom wasn't good at sports.
+i know a good lawyer who can help you.
+i know what those situations are like.
+i might have a chance to do that soon.
+i often borrow books from the library.
+i should have listened more carefully.
+i should never have come to australia.
+i speak japanese, english, and french.
+i think tom is a dangerous psychopath.
+i think we should do something stupid.
+i thought it would be easy to do that.
+i want tom to help me clean the house.
+i want tom to show you how to do that.
+i wanted tom to sing my favorite song.
+i wanted to do something nice for you.
+i wanted to make some telephone calls.
+i was pretty young back in those days.
+i will be sixteen years old next year.
+i will probably get up early tomorrow.
+i wish there was more i could've done.
+i wonder whether tom has already left.
+i'm not quite sure who we should hire.
+i'm sorry that i couldn't go with you.
+i've been trying to reach you all day.
+is there anything you want to tell me?
+it isn't fair to keep tom in the dark.
+it won't be long before the sun rises.
+it's not fair to keep tom in the dark.
+look me up next time you're in boston.
+my dream is to become a famous singer.
+my father is suffering from influenza.
+my grandfather was wounded in the war.
+my mother said that she was all right.
+only four horses competed in the race.
+prior to the meeting, they had dinner.
+she almost froze to death in the snow.
+squirrels often chase other squirrels.
+tell me why you don't want to do that.
+that was a very complicated situation.
+the earth is far bigger than the moon.
+the fact tom did that can't be denied.
+the horse stopped and refused to move.
+the police think that tom acted alone.
+there are few men who don't know that.
+there are forty students in our class.
+there are thirty students in my class.
+there are thirty students in my class.
+there were a few children in the room.
+there's nothing worse than loneliness.
+they collect our garbage every monday.
+this is the camera i bought yesterday.
+tom and john pretended to be brothers.
+tom and mary became very good friends.
+tom clasped his hands behind his head.
+tom cried during his son's graduation.
+tom didn't notice what mary was doing.
+tom doesn't like volleyball very much.
+tom doesn't think mary will be lonely.
+tom gave me a harmonica for christmas.
+tom has learned a few words in french.
+tom is probably not going to be there.
+tom is working as a software engineer.
+tom isn't going to buy anything today.
+tom looks like he's been up all night.
+tom really is a nice person, isn't he?
+tom said he wanted to be an architect.
+tom said that mary seemed to be drunk.
+tom said that mary seemed to be drunk.
+tom thinks mary can understand french.
+tom thinks mary can understand french.
+tom told me you were allergic to cats.
+tom wants to learn how to ride a bike.
+tom will be here in less than an hour.
+tom will be in his room all day today.
+tom works in research and development.
+tom, what do you think of this brandy?
+we didn't expect it to take this long.
+we didn't expect it to take this long.
+we'll never get to boston before dark.
+what do you remember about last night?
+what do you think this sentence means?
+what kind of food do you usually cook?
+why don't we go grab a bite somewhere?
+will tom come with his wife, or alone?
+women are often judged by their looks.
+would you like me to help you do that?
+you can buy stamps at any post office.
+you're not mad at me anymore, are you?
+you've got to fish where the fish are.
+you've never studied french, have you?
+astronomy is by no means a new science.
+at the most, the trip will cost $1,000.
+better a small fish than an empty dish.
+buy eggs at the store on your way home.
+chances are that i'll be late for work.
+could you please speak a little slower?
+could you tell me your present address?
+don't forget that there are exceptions.
+don't pretend to be someone you're not.
+everybody here except me has done that.
+feeling chilly, i turned on the heater.
+french is one of my favorite languages.
+have you ever been in australia before?
+have you ever been kicked out of a bar?
+have you ever seen a spider spin a web?
+he attributes his success to hard work.
+he kissed his daughter on the forehead.
+he promised me he wouldn't tell anyone.
+his sudden appearance surprised us all.
+how did you spend your winter vacation?
+how did you spend your winter vacation?
+how many days are you planning to stay?
+how many mosques are there in istanbul?
+hurry up, or you'll be late for school.
+hurry up, or you'll be late for school.
+i bought this umbrella three years ago.
+i didn't know that you had a boyfriend.
+i didn't know you used to teach french.
+i don't know anything about him at all.
+i don't know how to pronounce his name.
+i don't speak french as well as you do.
+i don't think tom knows mary very well.
+i don't want to live my life like this.
+i have to introduce tom to the manager.
+i know tom is a very good chess player.
+i know tom knows that i should do that.
+i know that tom is a very generous man.
+i know that tom is a very quiet person.
+i know that tom knows i should do that.
+i learned how to swim when i was a kid.
+i remember tom was wearing a brown hat.
+i should've told you about that sooner.
+i study english half an hour every day.
+i think that there is the way to do it.
+i thought that tom was studying french.
+i used to dream about becoming a model.
+i watched tv after i washed the dishes.
+i wish that i could've helped tom more.
+i wonder if tom noticed the difference.
+i'd like to see him tomorrow afternoon.
+i'll leave as soon as it stops raining.
+i'm going to be at home this afternoon.
+i'm sorry, but i don't know what to do.
+i'm still optimistic about the project.
+i'm still optimistic about the project.
+i've always been an independent person.
+is eating organic food worth the money?
+is there anyone here who speaks french?
+is there something you want to tell me?
+it's dangerous to go outside right now.
+it's the highest building in this city.
+let's meet at the station at 10:00 p.m.
+many people were very angry about that.
+my daughter is not yet three years old.
+my family goes to australia every year.
+nothing is certain but death and taxes.
+onions cook more quickly than potatoes.
+our family doesn't celebrate christmas.
+read as many books as you possibly can.
+take care of my flowers while i'm away.
+that was the only way we could do that.
+the earth is much larger than the moon.
+the plane took off from boston at 2:30.
+the rebels took control of the capital.
+the rebels took control of the capital.
+the sooner you do it, the better it is.
+the war ended about three months later.
+there are a lot of animals in the park.
+there was no point in arguing with tom.
+there was no point in arguing with tom.
+these products are of the same quality.
+they have scheduled a press conference.
+this restaurant is busier on saturdays.
+to tell the truth, i'm not your father.
+tom and mary used to be friends, right?
+tom and his brother look quite similar.
+tom asked me to go to a movie with him.
+tom dressed up as cowboy for halloween.
+tom fainted at the sight of the needle.
+tom filled the bathtub with warm water.
+tom had a crush on his science teacher.
+tom hopes that mary won't get deported.
+tom is swimming in the neighbor's pool.
+tom said that mary has never done that.
+tom says that he won't wait any longer.
+tom still hasn't responded to my email.
+tom thinks that it's a ridiculous idea.
+tom thought that mary would be jealous.
+tom volunteered to pay for the damages.
+tom, mary, john and alice can all swim.
+viruses are much smaller than bacteria.
+was it you who told tom not to do that?
+water is the only thing tom will drink.
+what are you eating for dinner tonight?
+what convinced you to change your mind?
+what convinced you to change your mind?
+what did you do after school yesterday?
+what did you do after school yesterday?
+what is the difference between a and b?
+what's your favorite harry potter book?
+what's your favorite harry potter book?
+which do you like better, meat or fish?
+which do you like better, meat or fish?
+you carry too much stuff in your purse.
+you don't need to prove anything to me.
+you don't need to prove anything to me.
+you finally succeeded in getting a job.
+you finally succeeded in getting a job.
+you have something stuck in your teeth.
+you have to take the bull by the horns.
+you have to take the bull by the horns.
+you may use my computer if you want to.
+a person who steals deserves punishment.
+all participants will receive a t-shirt.
+be careful. there's a hole in the floor.
+both tom and i prefer watching comedies.
+both tom and mary are very conservative.
+brains consume 25% of the body's energy.
+by the way, have you done your homework?
+can you save one of those donuts for me?
+do you want to know what i think of you?
+don't say something you'll regret later.
+every saturday we clean the whole house.
+everyone knows two plus two equals four.
+give him the message when he comes back.
+have you been in boston for a long time?
+have you ever been betrayed by a friend?
+have you ever been stuck in an elevator?
+have you ever been to a foreign country?
+have you ever been to this beach before?
+he goes swimming in the river every day.
+he is going to leave tomorrow afternoon.
+he will hire someone who speaks english.
+his brave actions are worthy of a medal.
+how often do you see wolves around here?
+i assure you tom will be perfectly safe.
+i ate one of the three remaining donuts.
+i cut up all but one of my credit cards.
+i don't know what tom is so upset about.
+i don't know why you're studying french.
+i don't know why you're studying french.
+i don't read as many books as i used to.
+i don't think tom would do that for you.
+i live very close to the subway station.
+i should've told you everything earlier.
+i thank you from the bottom of my heart.
+i thank you from the bottom of my heart.
+i think tom and i have missed something.
+i think that tom isn't in australia now.
+i think that what you're doing is wrong.
+i think this photo was taken in october.
+i thought tom would never see you again.
+i used to go to boston quite frequently.
+i want to get out here as soon as i can.
+i wanted to spend time with my children.
+i wasn't comfortable with the situation.
+i wasn't comfortable with the situation.
+i wish i could go to the party with you.
+i'll go tomorrow if the weather is good.
+i'm not going to let you commit suicide.
+i'm too old to wear something like that.
+i've had a thing for rabbits ever since.
+if you study hard, you'll pass the exam.
+is there anybody here who speaks french?
+is there anything you'd like to tell me?
+is there something that you want to say?
+is there something that you want to say?
+many people eat turkey on christmas day.
+mary is both attractive and intelligent.
+my father set the alarm for six o'clock.
+my gums bleed whenever i floss my teeth.
+my younger sister plays piano every day.
+napoleon marched his armies into russia.
+our car is three years older than yours.
+promise me you won't do anything stupid.
+she arrived when we were about to leave.
+she lives with him in a small apartment.
+she whispered to me that she was hungry.
+sputnik was launched on october 4, 1957.
+that man died of lung cancer a week ago.
+the police believe that tom acted alone.
+there are a lot of sheep in the pasture.
+there are a lot of things we need to do.
+there are seven continents on the earth.
+there's no toilet paper in the bathroom.
+there's nothing more precious than life.
+they started studying english last year.
+this is a bit too loose around my waist.
+three children were playing in the park.
+tom and mary said they were on our side.
+tom can swim a lot better than mary can.
+tom can swim a lot better than mary can.
+tom changed his mind at the last minute.
+tom doesn't speak french, but mary does.
+tom doesn't want to sing, but he has to.
+tom has a guitar that was made in korea.
+tom hopes to be rich and famous someday.
+tom is a good friend of yours, isn't he?
+tom is definitely not going to be there.
+tom is married to a canadian named mary.
+tom is married to a canadian named mary.
+tom is married to a high school teacher.
+tom is standing in the back of the room.
+tom said he knew that mary wouldn't win.
+tom said that he had nothing else to do.
+tom seems to be worried about something.
+tom spent christmas in boston with mary.
+tom used to be a primary school teacher.
+twenty police have arrived on the scene.
+two american students live in this dorm.
+we carried out our mission successfully.
+we celebrated tom's thirteenth birthday.
+we don't know anything about tom's past.
+what did tom give you for your birthday?
+what's the largest airport in the world?
+when was the last time you saw that cat?
+yesterday, i simply couldn't go to work.
+you can't expect much sympathy from tom.
+you don't seem to be as artistic as tom.
+you know that isn't possible, don't you?
+you know that's not possible, don't you?
+you talked to tom yesterday, didn't you?
+you're trying to confuse me, aren't you?
+a soccer team consists of eleven players.
+all in all, i thought it was a good book.
+bullying and teasing aren't allowed here.
+butterflies are very rare in our country.
+butterflies are very rare in our country.
+butterflies are very rare in our country.
+did you know mary and alice were sisters?
+did you like the flowers that i sent you?
+don't believe everything people tell you.
+for the first time in ages, i slept late.
+he deposited the prize money in the bank.
+he ordered them to release the prisoners.
+he says things on the spur of the moment.
+he won't let anybody sit in his armchair.
+how long can a person live without water?
+how many more days will you be in boston?
+how many more days will you be in boston?
+how many of the people here are teachers?
+how many times a week do you play tennis?
+how many years did you live in australia?
+how often do you visit your grandparents?
+i assure you tom will be completely safe.
+i assured tom i wouldn't do that anymore.
+i bought a pen for your birthday present.
+i can't believe you would do that for me.
+i didn't have time to watch tv yesterday.
+i didn't know that you loved tom so much.
+i didn't think that what i did was wrong.
+i don't know how much this motorcycle is.
+i don't like boston as much as i used to.
+i don't remember asking for your opinion.
+i feel like this isn't going to end well.
+i had difficulty in solving this problem.
+i just don't want anyone to be mad at me.
+i knew tom was afraid of his grandfather.
+i know i might not have to do that today.
+i like your cat, but she doesn't like me.
+i sometimes use scissors as a can opener.
+i think it's cruel to keep a cat indoors.
+i thought you said you'd help us do that.
+i thought you said you'd help us do that.
+i want to go to australia with my family.
+i wonder whether tom really likes boston.
+i'm sorry i can't tell you more about it.
+i'm the only person who can help you now.
+i've never seen anything quite like this.
+if i were you, i wouldn't sell your land.
+in 1950, north korea invaded south korea.
+it took me three hours to clean my house.
+marriage is the union of a man and woman.
+my life would be meaningless without you.
+remember that we're all in the same boat.
+she is always at the bottom of the class.
+she is always at the bottom of the class.
+the girl in the blue coat is my daughter.
+the last time i came here was a year ago.
+the letters were from tom, not from mary.
+the price of gold varies from day to day.
+the question is who is going to tell him.
+this information is very important to us.
+this information is very important to us.
+this information is very important to us.
+tom already knows that mary will do that.
+tom didn't let me answer mary's question.
+tom has very good problem-solving skills.
+tom is a friend of mine. do you know him?
+tom is trying to avoid drinks with sugar.
+tom knows the police are looking for him.
+tom learned to dive when he was thirteen.
+tom said boston is a nice place to visit.
+tom said boston is a nice place to visit.
+tom wakes up at six-thirty every morning.
+tom wants to learn how to play the piano.
+tom wants to learn how to ride a bicycle.
+tom was able to buy everything he needed.
+tom was supposed to be here before lunch.
+tom's camera was just where he'd left it.
+tom's only been a widower for six months.
+tom, what's wrong? your face is very red.
+we graduate from high school at eighteen.
+we graduate from high school at eighteen.
+we watched him until he was out of sight.
+what's the average height of the players?
+when was the last time you went canoeing?
+when were potatoes introduced into japan?
+where can i find a place to change money?
+where did you spend your summer vacation?
+where did you spend your summer vacation?
+who was tom planning to go swimming with?
+will you have time to have lunch with me?
+would you mind answering a few questions?
+you can find yogurt in the dairy section.
+you took the words right out of my mouth.
+you took the words right out of my mouth.
+you took the words right out of my mouth.
+you've got something stuck in your teeth.
+bread is made from flour, water and yeast.
+could you loan me some money until payday?
+did you take the book back to the library?
+do you have a lot of friends in australia?
+do you really think it's risky to do that?
+don't forget to take an umbrella with you.
+have you met any canadians here in boston?
+he promised me that he won't tell anybody.
+how do you calculate the volume of a cube?
+how many concerts did you go to last year?
+how often did you go swimming last summer?
+i asked tom why he wanted to study french.
+i couldn't get the cork out of the bottle.
+i don't think that tom will be doing that.
+i doubt tom can do that without some help.
+i go to boston three or four times a year.
+i hope we don't have to wait for too long.
+i never should've borrowed money from tom.
+i stopped off at osaka on my way to tokyo.
+i thought that you were smarter than that.
+i won't hire anyone without your approval.
+i'm good at many sports, but i can't swim.
+i'm looking forward to traveling with tom.
+i'm so tired that i can't walk any longer.
+i'm sorry that i kept you waiting so long.
+is this the dictionary you're looking for?
+it's not as hot today as it was yesterday.
+my grandfather was killed in world war ii.
+my grandfather was killed in world war ii.
+my older sister plays the piano every day.
+now we have one less thing to worry about.
+remember that we are all in the same boat.
+she is more beautiful than any other girl.
+sorry to trouble you, but can you help me?
+spring is the best season to visit boston.
+the government tends to control the media.
+the question is whether he can be trusted.
+the teacher scolded his students severely.
+there is no bus service after nine-thirty.
+there is something about him i don't like.
+they live on the 12th floor of this condo.
+this machine was out of order for a while.
+tom didn't know mary was going to be late.
+tom didn't know who was going to be there.
+tom doesn't drink alcoholic drinks at all.
+tom doesn't know what he's supposed to do.
+tom has decided to go skiing next weekend.
+tom is living alone in a hut on the beach.
+tom isn't likely to pass the driving test.
+tom keeps dreaming about buying a new car.
+tom looks quite sophisticated for his age.
+tom may be faster at doing that than mary.
+tom met a friend of mary's at the airport.
+tom roasted the marshmallow over the fire.
+tom roasted the marshmallow over the fire.
+tom should be here within fifteen minutes.
+tom told me he hasn't seen mary in months.
+tom used soap and water to wash his hands.
+tom was trying hard not to laugh out loud.
+was your elementary school a large school?
+we don't know whether tom can come or not.
+what would you do if that happened to you?
+which are heavier, sandwiches or onigiris?
+without you, my life would be meaningless.
+you can't imagine how hard it was for tom.
+you haven't ever been to boston, have you?
+a football team consists of eleven players.
+after that english exam, my brain is fried.
+australia is a great place for sightseeing.
+could you please repeat what you just said?
+have you ever seen tom not wearing glasses?
+have you ever seen a spider spinning a web?
+he built an observatory to study the stars.
+he does not even know how to sign his name.
+he translated a japanese novel into french.
+how many years have you been studying judo?
+i can't possibly do that without your help.
+i can't possibly do that without your help.
+i could write tom a note if you want me to.
+i didn't know tom was a child psychologist.
+i don't know where tom will live next year.
+i don't want to go to tom's birthday party.
+i don't want to waste time on this problem.
+i have some strawberries. do you want some?
+i have to take my medicine every six hours.
+i owe it to my parents that i'm so healthy.
+i suspect that tom doesn't want to do that.
+i think that tom is a dangerous psychopath.
+i was able to swim well when i was a child.
+i wonder what the weather will be tomorrow.
+i'd like to mail this package to australia.
+i'll be waiting for you at the usual place.
+i'm actually very interested in doing that.
+i'm having a hard time with german grammar.
+i'm not very interested in learning french.
+if you touch that wire, you'll get a shock.
+if you're going to smoke, smoke over there.
+is there anything that you want to tell me?
+it finally stopped raining towards evening.
+it isn't as cold today as it was yesterday.
+it's not as cold today as it was yesterday.
+my daughter is still under three years old.
+never in my life have i heard such a thing.
+physics is more difficult than mathematics.
+the fact that tom did that can't be denied.
+the footprints continued down to the river.
+the heroine of the novel committed suicide.
+there is nothing you have to be ashamed of.
+there's a bad smell in the conference room.
+this grocery store only sells organic food.
+this grocery store only sells organic food.
+this is a complete distortion of the facts.
+thousands of people died during the plague.
+to tell the truth, he is not a human being.
+tom already knows mary is going to do that.
+tom bought some things on the black market.
+tom came to australia hoping to find a job.
+tom dedicated his life to helping the poor.
+tom divided the pie into three equal parts.
+tom divided the pie into three equal parts.
+tom doesn't like the way mary makes coffee.
+tom doesn't want to do that, but he has to.
+tom has a room at the hotel near the river.
+tom has a room at the hotel near the river.
+tom has agreed to take a lie detector test.
+tom has decided to get his house repainted.
+tom has some experience in teaching french.
+tom liked to listen to mary play the piano.
+tom looked around and realized he was lost.
+tom may use my video camera if he wants to.
+tom pushed the wheelchair into mary's room.
+tom said that what you told me wasn't true.
+tom studies harder than anyone else i know.
+tom thinks that mary won't need to do that.
+tom told me where i could buy pomegranates.
+tom was diagnosed with asperger's syndrome.
+we need to learn to live with what we have.
+we used the computer in order to save time.
+we're collecting blankets for the homeless.
+when are you going to ask her to marry you?
+who's the most intelligent person you know?
+who's the most intelligent person you know?
+will you show me what you bought yesterday?
+would it be possible for me to talk to tom?
+allow me to demonstrate my invention to you.
+antibodies fight off infections and viruses.
+are you blaming me for your lack of success?
+does anybody here know how this thing works?
+genes consist of a specific sequence of dna.
+he has a deep insight into human psychology.
+he often attributes his success to his wife.
+he was dismissed by the boss of the factory.
+help yourself to anything you'd like to eat.
+how many eggs are there in the refrigerator?
+i can assure you that's not going to happen.
+i didn't know that tom was a cocaine addict.
+i didn't know that you used to teach french.
+i didn't think we had any chance of winning.
+i have no idea how to deal with my daughter.
+i have to take the entrance exams next year.
+i knew it would be impossible for me to win.
+i know that tom is a very good chess player.
+i know that tom knows that i should do that.
+i need your advice on what i should do next.
+i spent two hours reading a book last night.
+i worked hard in order to support my family.
+i worked hard in order to support my family.
+i'm thinking about going back into teaching.
+if there's a way out of here, we'll find it.
+is there something that you want to tell me?
+is there something that you wish to tell me?
+is there something that you wish to tell me?
+it was tom's idea, not mine. don't blame me.
+it was tom's idea, not mine. don't blame me.
+it's getting dark. please turn on the light.
+it's not as easy to do that as people think.
+mary is the kind of woman i'd like to marry.
+muscles are made of hundreds of thin fibers.
+no other city in japan is as large as tokyo.
+no other language is as beautiful as french.
+not knowing what to say, he remained silent.
+people who ignore history tend to repeat it.
+please drop in at my house on your way home.
+shut up. if you don't, you'll be thrown out.
+some people believe in god and others don't.
+that's really all that i want to say to you.
+the next concert will take place in october.
+there's no entertainment in the countryside.
+this is the biggest cat that i've ever seen.
+tom and mary live in a very small apartment.
+tom bought a weekly magazine at the station.
+tom doesn't eat any fish except canned tuna.
+tom is looking for a way to make some money.
+tom is planting a palm tree in his backyard.
+tom is so irresponsible. i can't believe it.
+tom learned how to read and write at school.
+tom said boston was colder than he expected.
+tom told his friends that he never ate meat.
+tom wasn't the only one who was very hungry.
+tom went to korea as a christian missionary.
+tom won't leave until he gets what he wants.
+tom works for an international organization.
+tom's birthday was the day before yesterday.
+what are you lingering for? hurry up and go.
+what in the world do you think you're doing?
+what language do they speak in your country?
+what makes you think tom will listen to you?
+what's your favorite image editing software?
+you should've asked tom before you did that.
+are there any girls here you haven't yet met?
+are you saying you don't know how to do this?
+certain religions are against organ donation.
+do you have a table with a view of the ocean?
+do you have a table with a view of the ocean?
+don't sign the document until you've read it.
+don't waste your time trying to convince tom.
+english has become an international language.
+he promised me that he wouldn't tell anybody.
+he's always looking at you. he must love you.
+how about stopping the car and taking a rest?
+i believe that the answer is straightforward.
+i believe that the answer is straightforward.
+i don't play tennis, but i play table tennis.
+i don't play the piano as often as i used to.
+i don't think that tom knows why it happened.
+i had the same thing happen to me last month.
+i haven't been getting a lot of sleep lately.
+i knew that tom didn't want to do that again.
+i look forward to seeing you again very soon.
+i think that tom's french has improved a lot.
+i want tom to understand why he has to leave.
+i want to get a job that mixes work and play.
+i want to get a job that mixes work and play.
+i wish that i could go to the party with you.
+i'm looking for a hat to match a brown dress.
+i'm trying to tell you what needs to be done.
+i've read your book. it was very interesting.
+is it true that you're a high school teacher?
+is it true that you're a high school teacher?
+is there anything that you'd like to tell me?
+my parents came to see me off at the airport.
+the effects of the medicine were wearing off.
+the old church by the lake is very beautiful.
+the real issue is how to prevent the disease.
+the telephone rang while i was having supper.
+things are the same, but people have changed.
+this happened prior to receiving your letter.
+this issue was much more prevalent back then.
+this year, valentine's day falls on a sunday.
+tom and his friends are swimming in the pool.
+tom bought a bag of popcorn and a soft drink.
+tom didn't tell mary why he had to work late.
+tom doesn't speak french, but his parents do.
+tom had difficulty concentrating on his work.
+tom had difficulty concentrating on his work.
+tom has spent the past three years in prison.
+tom is an adult, but he doesn't act like one.
+tom is spending more and more time in boston.
+tom is studying to become a marine biologist.
+tom is the only professional musician i know.
+tom said mary has been to boston three times.
+tom said that he doesn't regret his decision.
+tom survived being buried under an avalanche.
+tom was diagnosed with asd when he was three.
+tom would be very surprised if mary did that.
+upon hearing the news, she broke down crying.
+upon hearing the news, she broke down crying.
+we have no evidence that such a virus exists.
+we study the past for the sake of the future.
+what do you mean they are killing each other?
+where do you want to go this summer vacation?
+where do you want to go this summer vacation?
+who'll take care of the dog while we're gone?
+why did you tell tom that we're just friends?
+you can't force yourself to forget something.
+you haven't ever been to australia, have you?
+you know that that isn't possible, don't you?
+you know that that's not possible, don't you?
+are you really thinking about getting married?
+be sure to lock the door before you go to bed.
+can you tell me more about the person you saw?
+do you really think tom will let you help him?
+have you ever thought about quitting your job?
+have you studied darwin's theory of evolution?
+he always wanted to call attention to himself.
+how long would it take you to paint my garage?
+i don't think that tom has to do that anymore.
+i know that i might not have to do that today.
+i ordered five books on economics from london.
+i think french is the most beautiful language.
+i want to be a leader that people can respect.
+i was about to go to bed when he called me up.
+i wonder whether tom thinks i have to do that.
+is it true tom will go to australia next year?
+is it true you've never had a serious illness?
+is there anything more romantic than a picnic?
+it is difficult for me to answer the question.
+it is difficult to convey the meaning exactly.
+it's rumored there are treasures hidden there.
+learning a musical instrument trains the mind.
+mary found a long blonde hair on tom's jacket.
+most people don't care about things like that.
+my favorite city in the whole world is boston.
+no matter what i do, she says i can do better.
+no river in the world is longer than the nile.
+of course you have to pay. what did you think?
+science is based on very careful observations.
+several people in our office can speak french.
+she designed beautiful costumes for the movie.
+the asian part of russia is larger than china.
+the boy seized the ladder, and began to climb.
+the boy who is swimming is my younger brother.
+the girl wearing the blue coat is my daughter.
+the more books you read, the more you'll know.
+the painting will cost at least 1,000 dollars.
+the trouble is that i have no money on me now.
+there are things that can't be left to chance.
+tom doesn't have to go to australia next week.
+tom doesn't have to go to australia next week.
+tom is married to a canadian woman named mary.
+tom is married to a canadian woman named mary.
+tom is still not very good at swimming, is he?
+tom lives in a small apartment on park street.
+tom put the presents under the christmas tree.
+tom was able to buy everything that he needed.
+tom withdrew some money from his bank account.
+tom wondered why there was a dog in his house.
+try to see the problem from her point of view.
+who's the person who was just speaking to you?
+why does everybody think tom and i are stupid?
+you haven't told tom you're married, have you?
+you look tired, so you should go to bed early.
+you should write it down before you forget it.
+a permanent job is better than a temporary one.
+are you sure you want to go to boston with tom?
+be careful not to make that same mistake again.
+can you come to the meeting tomorrow afternoon?
+could you tell me about your trip to australia?
+every house on our street was blue except ours.
+he cannot see the matter from my point of view.
+how can you tell good english from bad english?
+i don't think tom is going to admit he's wrong.
+i don't usually put apples in the refrigerator.
+i have a friend whose father is a veterinarian.
+i heard that both tom and mary have been fired.
+i hope that we don't have to wait for too long.
+i thought that you didn't want anything to eat.
+i wish i could remember everything tom told me.
+if you knew about this, why didn't you tell us?
+is it really possible to do a brain transplant?
+it requires more courage to suffer than to die.
+it's not easy writing a love letter in english.
+studying when you're sleepy is a waste of time.
+the mona lisa was painted by leonardo da vinci.
+the fire station is next to the police station.
+the human mind is good at recognizing patterns.
+the material is light enough to float in water.
+tom currently lives alone in a small apartment.
+tom folded the paper before handing it to mary.
+tom has a distinctive scar under his right eye.
+tom is going to stay there as long as possible.
+tom reached into his bag and pulled out a book.
+tom wants to know if you have any time to help.
+tom was at the pub with his friends last night.
+when the bomb exploded, i happened to be there.
+without the ozone layer, we would be in danger.
+would you let me drive your car if you had one?
+you can't imagine how difficult it was for tom.
+you have to wear a helmet to protect your head.
+you need good equipment to climb that mountain.
+are there any students from korea in your class?
+do you think you could drive? i'm feeling tired.
+do you want to know where you made your mistake?
+germany did not want war with the united states.
+have you heard of a bird called the arctic tern?
+i can't believe that you used to hate chocolate.
+i don't think tom wants to be my friend anymore.
+i was just about to go to bed when he phoned me.
+i wonder what tom is going to do this afternoon.
+i'd like a wake-up call at six tomorrow morning.
+i've told you a million times not to exaggerate.
+if you do that, you're going to look ridiculous.
+it isn't easy to write a love letter in english.
+no other lake in japan is as large as lake biwa.
+perhaps tom is too old to do this kind of thing.
+please invite me the next time you have a party.
+please invite me the next time you have a party.
+she couldn't understand what had happened there.
+the venom of most spiders is harmless to humans.
+this book is way more interesting than that one.
+this elevator does not go above the sixth floor.
+tom already knows that mary is going to do that.
+tom has been battling depression for many years.
+tom learned how to do that from his grandfather.
+tom said he had something important to tell you.
+tom says he doesn't think mary ought to do that.
+tom told mary he wouldn't let her go by herself.
+we're moving to boston at the end of this month.
+where the treasure is hidden is still a mystery.
+would it be ok if i ate the last slice of pizza?
+would it be ok if i ate the last slice of pizza?
+you are not a good person. you know that, right?
+you'd better tell me if you did something wrong.
+can you give me directions to the subway station?
+can you give me directions to the subway station?
+did you receive the message i sent you yesterday?
+do you have something that you want to say to me?
+do you have something that you want to say to me?
+do you remember how slow the internet used to be?
+do you think croatian is an interesting language?
+do you think croatian is an interesting language?
+i didn't get a chance to introduce myself to her.
+i didn't think that we had any chance of winning.
+i have a friend whose father is an animal doctor.
+i just felt like hearing the sound of your voice.
+i think that tom is about the same height as you.
+i want tom to go to australia to visit his uncle.
+i've been trying to convince tom to learn french.
+it doesn't matter how old you get, you can learn.
+it rained yesterday, so i stayed at home all day.
+the fact that tom didn't do that can't be denied.
+the problem is that we don't have a lot of money.
+the problem is that we don't have a lot of money.
+this sentence isn't useful for language learners.
+this sentence isn't useful for language learners.
+tom came too early because of a misunderstanding.
+tom doesn't have a credit card or a bank account.
+tom hasn't yet learned how to write his own name.
+tom is lonely because he has no one to play with.
+tom spends most of his time sitting on the porch.
+you had bacon and eggs for breakfast, didn't you?
+you should apologize to her for being so distant.
+although i may be unhappy, i won't commit suicide.
+are there any girls here that you haven't yet met?
+are you saying that you don't know how to do this?
+can you remember the first time we met each other?
+can you remember the first time we met each other?
+didn't you know tom was living with mary's family?
+do you know how long tom is going to be in boston?
+do you know the name of the girl who was with tom?
+hope of finding the child alive is fading rapidly.
+hope of finding the child alive is fading rapidly.
+i arrived at the bus stop just after the bus left.
+i didn't want to bother tom while he was studying.
+i learned to play guitar when i was ten years old.
+if the price is reasonable, i want to buy the car.
+it is true that she is pretty, but she is selfish.
+that mountain is about three thousand meters high.
+the flight will be delayed because of a sandstorm.
+the oven's hot so be careful not to burn yourself.
+the pond has frozen, so we can now go ice skating.
+this english book is too difficult for me to read.
+tom said he didn't learn anything at school today.
+tom said he didn't want to go to the park with us.
+tom washes his hands more than thirty times a day.
+are you seriously thinking about quitting your job?
+being too nervous to reply, he stared at the floor.
+eating out is something that i don't do very often.
+have you ever been in a long distance relationship?
+he left the office without saying a word to anyone.
+i don't think doing that would be such a good idea.
+i think that french is the most beautiful language.
+i wish i could stop thinking about what's happened.
+i've not been to work. i've stayed at home all day.
+if it rains tomorrow, i'm not going to the meeting.
+if you don't help tom, he'll have trouble doing it.
+if you don't help tom, he'll have trouble doing it.
+is it true that tom will go to australia next year?
+it's a well-known fact that spiders aren't insects.
+my grandfather cannot walk without a walking stick.
+my sister asked my father to buy her a new bicycle.
+my sister asked my father to buy her a new bicycle.
+one should not confuse education with job training.
+to be honest with you, i don't think i can do that.
+tom is bigger than all the other boys in his class.
+tom said he wanted to hire someone with experience.
+tom says he doesn't feel like playing tennis today.
+tom was busy and didn't have a chance to eat lunch.
+we're going to meet in front of the museum at 2:30.
+well, you obviously have romantic feelings for tom.
+what have you bought your girlfriend for christmas?
+what was your favorite tv show when you were a kid?
+did you see mary's reaction when she saw the spider?
+do you really think you can convince tom to do that?
+i haven't been to work. i've stayed at home all day.
+i never thought tom would come back to boston again.
+i think it's dangerous to climb that mountain alone.
+i thought i'd be able to do what you asked me to do.
+i used to go swimming in the sea when i was a child.
+i want to be able to play the violin as well as tom.
+i'm not quite sure if we can meet your requirements.
+if he had enough time, he might have done good work.
+if it is worth doing at all, it is worth doing well.
+is there anything you want us to send you from home?
+it took him several weeks to recover from the shock.
+it's been three years since i began studying french.
+mary isn't really sick. she's only pretending to be.
+people should understand that the world is changing.
+there are more than six billion people in the world.
+tom and mary still live next door to john and alice.
+tom and mary still live next door to john and alice.
+tom probably would've died if mary hadn't saved him.
+tom was diagnosed with autism and severe depression.
+tom was lonely and wished he had someone to talk to.
+we need to know what we're supposed to do on monday.
+we play catch in the park near our house on sundays.
+we're going out for lunch. why don't you come along?
+working in such conditions was especially difficult.
+a human body consists of a countless number of cells.
+could you please tell me again where you put the key?
+do you have the most recent version of this software?
+do you think eating breakfast every day is important?
+don't you want to know the truth about what happened?
+he breathed deeply before entering his boss's office.
+her husband eats everything she puts in front of him.
+i can assure you we'll never make that mistake again.
+i don't have much money, but i can get along somehow.
+i find the food here to be a little too spicy for me.
+i thought you said that you weren't afraid of ghosts.
+i won't force you to do that, but i think you should.
+i've waited two whole hours. i can't wait any longer.
+if walls could talk, what stories would they tell us?
+is it safe to eat food that has dropped on the floor?
+painting our house took much longer than we expected.
+there's a movie i want to watch on tv tomorrow night.
+tom can't hold down a job. he's always getting fired.
+tom never lets his children watch tv after 10:00 p.m.
+tom put on his helmet and then got on his motorcycle.
+tom said that he didn't think the heat bothered mary.
+tom said that he had something important to tell you.
+tom should probably tell mary that he needs her help.
+tom thanked mary for the bottle of wine she gave him.
+weather permitting, we'll start on our trip tomorrow.
+when was the last time you found money on the street?
+why didn't you tell me you weren't going to be there?
+are you going to tell tom to go home, or do i have to?
+her dress attracted everyone's attention at the party.
+i can't believe that tom actually spent money on this.
+it was raining yesterday, so i stayed at home all day.
+please come here between two and three this afternoon.
+romania is a balkan country. its capital is bucharest.
+the atmosphere mostly consists of nitrogen and oxygen.
+the bus will arrive at the station in fifteen minutes.
+tom is allowed to stay. the rest of you have to leave.
+tom is allowed to stay. the rest of you have to leave.
+tom is living in the apartment that i used to live in.
+what's the difference between religion and philosophy?
+would you lend me your guitar to use tonight on stage?
+all of the children had gone to bed before it got dark.
+even though i slept for twelve hours, i'm still sleepy.
+i bought three pairs of shoes the day before yesterday.
+i used to go swimming once a week, but i don't anymore.
+i used to keep a diary in english when i was a student.
+i went over his report, but couldn't find any mistakes.
+i've been living in australia for the past three years.
+i've done all i can to help you. the rest is up to you.
+it's probably going to be hard for you to leave boston.
+my english teacher recommended that i read these books.
+my brother is very important. at least he thinks he is.
+not all horses were born equal. a few were born to win.
+that girl is under the delusion that she is a princess.
+the castle has been restored and is open to the public.
+the number is 932-8647, but i don't know the area code.
+there's not enough light in that room to do needlework.
+tom can't speak french. tom can't speak spanish either.
+tom hasn't eaten at a restaurant since he lost his job.
+tom should take an umbrella because it looks like rain.
+were you able to swim when you were thirteen years old?
+didn't you know tom lived in boston when he was a child?
+don't worry. someone will come and rescue us eventually.
+everyone wants to go to heaven, but nobody wants to die.
+except for tom, everyone in the family can speak french.
+gazpacho is a cold tomato and vegetable soup from spain.
+how many kinds of vegetables do you grow in your garden?
+i need another three hundred dollars to buy what i want.
+i'm not sure what it was, but it sounded like a gunshot.
+it's been nice talking to you, but i really must go now.
+it's not fair to attribute your failure to your parents.
+machines that his company produces are superior to ours.
+the company president was indicted for paying kickbacks.
+the reason why you failed is you didn't try hard enough.
+under a microscope, some viruses appear quite beautiful.
+what should you do if you find a big spider on your bed?
+common causes of stress are work and human relationships.
+every time i read this novel, i find it very interesting.
+he has absolutely no respect for other people's feelings.
+he told the truth, otherwise he would have been punished.
+i think it's really important for you to go to australia.
+i thought tom and mary were going to use me as a hostage.
+i thought that i'd be able to do what you asked me to do.
+if it were not for water, human life would be impossible.
+if we should miss the express, we'll take the next train.
+linguistics is a science that tries to describe language.
+more and more doctors have begun to use the new medicine.
+polish girls didn't want justin bieber to come to poland.
+she became scared when she noticed the man following her.
+the following morning, the snowman was completely melted.
+the new subway enables me to get to school in 20 minutes.
+the reason why you failed is you did not try hard enough.
+this bike isn't safe to ride; the wheel wobbles too much.
+tom doesn't want to spend the rest of his life in prison.
+tom isn't a lazy boy. as a matter of fact, he works hard.
+do you think that eating breakfast every day is important?
+ebola spreads from person to person through bodily fluids.
+i didn't think that you could persuade tom not to do that.
+if god did not exist, it would be necessary to invent him.
+it was the most frightening experience that i've ever had.
+living abroad is the best way to learn a foreign language.
+the mississippi is the longest river in the united states.
+the gravity of the moon is one-sixth of that of the earth.
+tom can't come to work today because he doesn't feel well.
+tom says he needs to talk to us about something important.
+tom was diagnosed with autism when he was three years old.
+you think you're awake, but you may, in fact, be dreaming.
+do you think our climate has an influence on our character?
+i don't think tom will be ready to do that until next year.
+i sincerely regret having caused you such an inconvenience.
+i think french is the most beautiful language in the world.
+if you are going abroad, it's necessary to have a passport.
+scientists can easily compute the distance between planets.
+she watches the other kids playing, but she never joins in.
+that would be like sawing off the branch you're sitting on.
+the sum of all the angles in a triangle equals 180 degrees.
+tom is one of the most respected men in the business world.
+you can't eat chicken? how do you know if you never try it?
+all the doctor's efforts were in vain and the man soon died.
+do you want to go out or stay at home? either is ok with me.
+i can smell mary's perfume. she must have been here earlier.
+i hope that this is the beginning of a beautiful friendship.
+if you don't study hard, you'll continue to get poor scores.
+please feel free to help yourself to anything in the fridge.
+she was about to go to bed when someone knocked on the door.
+since there is no air on the moon, there is no sound at all.
+strictly speaking, chinese consists of hundreds of dialects.
+tom pulled out an old shoebox from his closet and opened it.
+we should consider the problem from a child's point of view.
+you are a mechanical engineer and i am a software developer.
+i got a phone call from him just as i was about to go to bed.
+i saw her at the station five days ago, that is, last friday.
+i think that it would be a good idea for you to learn french.
+is there a place where i can charge my cellphone around here?
+it's not that i want a girlfriend, i just want to be in love.
+more than a third of the world population lives near a coast.
+there are some important questions that science cannot answer.
+tom asked mary a few questions that she wasn't able to answer.
+when i was a boy, i was addicted to reading detective stories.
+you should try to see things from the practical point of view.
+i didn't think that tom would ever forgive mary for doing that.
+i found it difficult to make myself heard because of the noise.
+i found it difficult to make myself heard because of the noise.
+i'm going through my closet to find clothes to give to charity.
+tom gave mary some advice on how to pass multiple-choice tests.
+tom talks to his mother more often than he talks to his father.
+tom was one the first people mary met when she moved to boston.
+tom was three when his mother was killed in a traffic accident.
+company regulations mandate that workers use protective eyewear.
+company regulations mandate that workers use protective eyewear.
+company regulations mandate that workers use protective eyewear.
+i didn't know that tom was going to do that in boston last week.
+i don't think that tom will be ready to do that until next year.
+i think that french is the most beautiful language in the world.
+i'm sorry for calling so late. i just wanted to hear your voice.
+semiconductors were the top united states export to south korea.
+thanks to his bold decision, he was able to ride out the crisis.
+that would be like sawing off the branch that you're sitting on.
+when you're young and you're in love, the world seems beautiful.
+how can anyone trust anything tom says? he's a pathological liar.
+i hear that there are people in japan that keep penguins as pets.
+i know it's very difficult to understand why tom did what he did.
+once you have formed a bad habit, you can't get rid of it easily.
+people with autism tend to have trouble with social interactions.
+after driving for eight hours, tom just couldn't drive any longer.
+i thought about writing you a message, but never got around to it.
+if you were to win the lottery, what would you buy with the money?
+if you were to win the lottery, what would you buy with the money?
+it's one thing to make plans, but quite another to carry them out.
+tom said he'd be very surprised if mary didn't win the tournament.
+tom said that mary knew that john might not be allowed to do that.
+depression is common among young adults who have asperger syndrome.
+i thought that there was a good chance tom would refuse to do that.
+i thought there was a good chance that tom would refuse to do that.
+i told tom that my relationship with mary was none of his business.
+switzerland is situated between france, italy, austria and germany.
+tom finally mustered up the courage to ask mary to go out with him.
+fortunately i was able to finish my work without any serious errors.
+i thought you might be lonely, so i came over with a bottle of wine.
+if there's anything i can do for you, don't hesitate to let me know.
+since the war, japan has advanced greatly in science and technology.
+i knew that tom didn't know how long it was going to take to do that.
+it's not that i want to have a girlfriend, i just want to be in love.
+when i was young, all the kids in the neighborhood used to fly kites.
+when the bus swerved to miss a cat, the driver said, "that was close."
+having been convicted of murder, he was sentenced to life imprisonment.
+i think tom wouldn't be forgiven for doing that if he weren't so young.
+tom threw a pillow at mary and the pillow hit her squarely in the face.
+by the way, did you find the umbrella you said you'd lost the other day?
+i can place the palms of my hands on the floor without bending my knees.
+i looked for the key under the welcome mat and in the nearby flower pot.
+i thought that there was a good chance that tom would refuse to do that.
+studying three hours a week wouldn't be enough to learn a language well.
+tom was standing outside the window, listening to mary and john talking.
+i don't know if it's a bug or what, but this software doesn't work right.
+to be a good translator, i think tom needs to hone his skills a bit more.
+tom was fired because he wasn't able to do the job he'd been hired to do.
+tom was three years old when his mother was killed in a traffic accident.
+tom claimed that he owned that expensive-looking red car we saw yesterday.
+all of us have some interest in history. in a sense, we are all historians.
+i have an extra ticket for tonight's concert. would you like to go with me?
+i was very surprised to see students cleaning their classroom after school.
+i don't know if it's a bug or not, but this software doesn't work correctly.
+the administration decided to move the home office of the company to hawaii.
+he was found guilty of attempted murder for attacking his mother with a knife.
+in this course, we'll spend time helping you sound more like a native speaker.
+tom occasionally prods me to work out with him, but i'm really not interested.
+i had to wait 20 minutes on the phone before reaching the customer service rep.
+i returned the books i borrowed from the library, and i borrowed some new ones.
+tom volunteers in a community outreach program designed to help homeless people.
+i think i can speak french well enough to say pretty much anything i want to say.
+my french would likely be much better today if i'd studied with a native speaker.
+it's not always possible to eat well when you're traveling in this part of the world.
+why don't we just reformat the hard disk? you've been having a lot of trouble with it.
+if we don't thoroughly examine the cause of bullying, bullying will probably never go away.
+i knew that tom was just a freshman, so i was surprised to see him hanging out with seniors.
+she asked him to help her father clean the garage, but he said that he was too busy to help.
+if your father asks your mother a question in french, does she answer in french or in english?
+tom always cried when his sister took away his toys, and for that very reason she loved to do so.
+science fiction has undoubtedly been the inspiration for many of the technologies that exist today.
+four of my favorite christmas carols are "silent night," "joy to the world," "the first noel" and "away in the manger."
+i started a new blog. i'll do my best not to be one of those people who blogs a lot right at the start and then quits blogging.
+i think it's a shame that some foreign language teachers were able to graduate from college without ever having studied with a native speaker.
+and the good news is that today the economy is growing again. wages, incomes, home values and retirement accounts are all rising again. poverty is falling again.
+if someone who doesn't know your background says that you sound like a native speaker, it means they probably noticed something about your speaking that made them realize you weren't a native speaker. in other words, you don't really sound like a native speaker.
+doubtless there exists in this world precisely the right woman for any given man to marry and vice versa; but when you consider that a human being has the opportunity of being acquainted with only a few hundred people, and out of the few hundred that there are but a dozen or less whom he knows intimately, and out of the dozen, one or two friends at most, it will easily be seen, when we remember the number of millions who inhabit this world, that probably, since the earth was created, the right man has never yet met the right woman.

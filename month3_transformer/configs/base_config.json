@@ -1,0 +1,11 @@
+{
+    "exp_name": "ablation_512_8",
+    "d_model": 512,
+    "n_head": 8,
+    "d_ff": 2048,
+    "n_layer": 8,
+    "max_len": 150,
+    "batch_size": 32,
+    "epochs": 20,
+    "learning_rate": 0.0001
+} 
