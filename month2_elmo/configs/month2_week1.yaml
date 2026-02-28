@@ -1,0 +1,10 @@
+model:
+  embed_dim: 128 # 임베딩 차원
+  hidden_dim: 256 # LSTM 내부에서 문맥을 기억하는 'Hidden State'의 크기입니다
+  num_layers: 2 # LSTM 층을 몇 개 쌓을지 결정합니다
+
+train:
+  batch_size: 1024
+  lr: 0.001 # 학습률
+  epochs: 20 # 에포크
+  seq_len: 30  # 모델이 한 번에 볼 문장의 길이입니다.
